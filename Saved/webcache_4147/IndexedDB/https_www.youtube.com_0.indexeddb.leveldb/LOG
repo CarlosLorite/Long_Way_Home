@@ -1,5 +1,0 @@
-2023/04/11-10:01:56.749 e14 Reusing MANIFEST D:/UNREAL/Long_Way_Home/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/04/11-12:34:06.843 4c28 Level-0 table #5: started
-2023/04/11-12:34:06.880 4c28 Level-0 table #5: 7477 bytes OK
-2023/04/11-12:34:06.900 4c28 Delete type=0 #3
-2023/04/11-12:34:06.900 4c28 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
