@@ -1,0 +1,5 @@
+2023/06/13-10:02:47.477 526c Reusing MANIFEST D:/UNREAL/Long_Way_Home/Saved/webcache_4147\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/13-10:05:54.858 3d20 Level-0 table #5: started
+2023/06/13-10:05:54.897 3d20 Level-0 table #5: 1165 bytes OK
+2023/06/13-10:05:54.921 3d20 Delete type=0 #3
+2023/06/13-10:05:54.921 3d20 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
