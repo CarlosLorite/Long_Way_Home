@@ -1,0 +1,564 @@
+Not using cached read wrapper
+Stats thread started at 1.651063
+ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-9BA3F34A45725B2436EC7AB1E0FE3021
+         Session CrashGUID >====================================================
+Loading Mac ini files took 0.07 seconds
+Loading Android ini files took 0.07 seconds
+Loading HoloLens ini files took 0.07 seconds
+Loading IOS ini files took 0.07 seconds
+Loading Unix ini files took 0.08 seconds
+Loading TVOS ini files took 0.08 seconds
+Loading LinuxArm64 ini files took 0.09 seconds
+Loading Linux ini files took 0.10 seconds
+Loading VulkanPC ini files took 0.04 seconds
+Loading Windows ini files took 0.05 seconds
+Mounting Engine plugin Bridge
+Mounting Engine plugin FastBuildController
+Mounting Engine plugin MeshPainting
+Mounting Engine plugin XGEController
+Mounting Engine plugin CameraShakePreviewer
+Mounting Engine plugin Paper2D
+Mounting Engine plugin AssetManagerEditor
+Mounting Engine plugin GameplayCameras
+Mounting Engine plugin OodleNetwork
+Mounting Engine plugin CryptoKeys
+Mounting Engine plugin GameplayTagsEditor
+Mounting Engine plugin BlueprintMaterialTextureNodes
+Mounting Engine plugin CurveEditorTools
+Mounting Engine plugin EditorScriptingUtilities
+Mounting Engine plugin EditorDebugTools
+Mounting Engine plugin DataValidation
+Mounting Engine plugin FacialAnimation
+Mounting Engine plugin MacGraphicsSwitching
+Mounting Engine plugin ModelingToolsEditorMode
+Mounting Engine plugin MobileLauncherProfileWizard
+Mounting Engine plugin MaterialAnalyzer
+Mounting Engine plugin GeometryMode
+Mounting Engine plugin PluginBrowser
+Mounting Engine plugin SequencerAnimTools
+Mounting Engine plugin SpeedTreeImporter
+Mounting Engine plugin StylusInput
+Mounting Engine plugin ControlRig
+Mounting Engine plugin WorldPartitionHLODUtilities
+Mounting Engine plugin AnimationModifierLibrary
+Mounting Engine plugin ControlRigSpline
+Mounting Engine plugin IKRig
+Mounting Engine plugin BlendSpaceMotionAnalysis
+Mounting Engine plugin AISupport
+Mounting Engine plugin EnvironmentQueryEditor
+Mounting Engine plugin DatasmithContent
+Mounting Engine plugin VariantManagerContent
+Mounting Engine plugin Niagara
+Mounting Engine plugin AndroidMedia
+Mounting Engine plugin AvfMedia
+Mounting Engine plugin ImgMedia
+Mounting Engine plugin MediaCompositing
+Mounting Engine plugin MediaPlayerEditor
+Mounting Engine plugin WebMMedia
+Mounting Engine plugin WmfMedia
+Mounting Engine plugin AlembicImporter
+Mounting Engine plugin TcpMessaging
+Mounting Engine plugin UdpMessaging
+Mounting Engine plugin AnimationSharing
+Mounting Engine plugin GitSourceControl
+Mounting Engine plugin CodeLiteSourceCodeAccess
+Mounting Engine plugin PixWinPlugin
+Mounting Engine plugin PerforceSourceControl
+Mounting Engine plugin PlasticSourceControl
+Mounting Engine plugin KDevelopSourceCodeAccess
+Mounting Engine plugin NullSourceCodeAccess
+Mounting Engine plugin CLionSourceCodeAccess
+Mounting Engine plugin PropertyAccessNode
+Mounting Engine plugin TextureFormatOodle
+Mounting Engine plugin TraceDataFilters
+Mounting Engine plugin RiderSourceCodeAccess
+Mounting Engine plugin SubversionSourceControl
+Mounting Engine plugin UObjectPlugin
+Mounting Engine plugin PluginUtils
+Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+Mounting Engine plugin XCodeSourceCodeAccess
+Mounting Engine plugin VisualStudioSourceCodeAccess
+Mounting Engine plugin ActorSequence
+Mounting Engine plugin SequencerScripting
+Mounting Engine plugin MatineeToLevelSequence
+Mounting Engine plugin LevelSequenceEditor
+Mounting Engine plugin TemplateSequence
+Mounting Engine plugin OnlineBase
+Mounting Engine plugin OnlineSubsystem
+Mounting Engine plugin OnlineSubsystemNull
+Mounting Engine plugin OnlineSubsystemUtils
+Mounting Engine plugin ChaosClothEditor
+Mounting Engine plugin AutomationUtils
+Mounting Engine plugin ChaosCloth
+Mounting Engine plugin BackChannel
+Mounting Engine plugin ChaosSolverPlugin
+Mounting Engine plugin ChaosNiagara
+Mounting Engine plugin ChaosEditor
+Mounting Engine plugin CharacterAI
+Mounting Engine plugin LauncherChunkInstaller
+Mounting Engine plugin FullBodyIK
+Mounting Engine plugin GeometryCollectionPlugin
+Mounting Engine plugin GeometryFlow
+Mounting Engine plugin Landmass
+Mounting Engine plugin MeshLODToolset
+Mounting Engine plugin MeshModelingToolsetExp
+Mounting Engine plugin OpenImageDenoise
+Mounting Engine plugin ActorLayerUtilities
+Mounting Engine plugin AndroidDeviceProfileSelector
+Mounting Engine plugin PlatformCrypto
+Mounting Engine plugin AndroidMoviePlayer
+Mounting Engine plugin PlanarCut
+Mounting Engine plugin ProxyLODPlugin
+Mounting Engine plugin AppleMoviePlayer
+Mounting Engine plugin AndroidFileServer
+Mounting Engine plugin PythonScriptPlugin
+Mounting Engine plugin AppleImageUtils
+Mounting Engine plugin AndroidPermission
+Mounting Engine plugin SkeletalReduction
+Mounting Engine plugin Water
+Mounting Engine plugin ArchVisCharacter
+Mounting Engine plugin AudioSynesthesia
+Mounting Engine plugin AssetTags
+Mounting Engine plugin AudioCapture
+Mounting Engine plugin CableComponent
+Mounting Engine plugin ChunkDownloader
+Mounting Engine plugin ExampleDeviceProfileSelector
+Mounting Engine plugin HairStrands
+Mounting Engine plugin GeometryProcessing
+Mounting Engine plugin GeometryCache
+Mounting Engine plugin CustomMeshComponent
+Mounting Engine plugin GoogleCloudMessaging
+Mounting Engine plugin GooglePAD
+Mounting Engine plugin IOSDeviceProfileSelector
+Mounting Engine plugin LocationServicesBPLibrary
+Mounting Engine plugin LinuxDeviceProfileSelector
+Mounting Engine plugin MeshModelingToolset
+Mounting Engine plugin MobilePatchingUtils
+Mounting Engine plugin ResonanceAudio
+Mounting Engine plugin ProceduralMeshComponent
+Mounting Engine plugin PropertyAccessEditor
+Mounting Engine plugin RuntimePhysXCooking
+Mounting Engine plugin SignificanceManager
+Mounting Engine plugin Synthesis
+Mounting Engine plugin SoundFields
+Mounting Engine plugin WebMMoviePlayer
+Mounting Engine plugin WindowsDeviceProfileSelector
+Mounting Engine plugin WindowsMoviePlayer
+Mounting Engine plugin ContentBrowserAssetDataSource
+Mounting Engine plugin ContentBrowserClassDataSource
+Mounting Engine plugin ContentBrowserFileDataSource
+Mounting Engine plugin OnlineServices
+Mounting Engine plugin OnlineSubsystemIOS
+Mounting Engine plugin OnlineSubsystemGooglePlay
+Mounting Engine plugin Interchange
+Mounting Engine plugin InterchangeEditor
+FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+FPackageName: Mount point added: '../../Plugins/Experimental/Landmass/Content/' mounted to '/Landmass/'
+FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+FPackageName: Mount point added: '../../Plugins/Experimental/Water/Content/' mounted to '/Water/'
+FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+Source control is disabled
+Source control is disabled
+PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+Using libcurl 7.55.1-DEV
+ - built for x86_64-pc-win32
+ - supports SSL with OpenSSL/1.1.1
+ - supports HTTP deflate (compression) using libz 1.2.8
+ - other features:
+     CURL_VERSION_SSL
+     CURL_VERSION_LIBZ
+     CURL_VERSION_IPV6
+     CURL_VERSION_ASYNCHDNS
+     CURL_VERSION_LARGEFILE
+     CURL_VERSION_IDN
+ CurlRequestOptions (configurable via config and command line):
+ - bVerifyPeer = true  - Libcurl will verify peer certificate
+ - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+ - bDontReuseConnections = false  - Libcurl will reuse connections
+ - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+ - LocalHostAddr = Default
+ - BufferSize = 65536
+WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+OSS: Created online subsystem instance for: NULL
+OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+Build: ++UE5+Release-5.0-CL-20979098
+Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+Net CL: 19505902
+OS: Windows 11 (22H2) [10.0.22621.1555] (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+Compiled (64-bit): Jul  7 2022 02:16:06
+Compiled with Visual C++: 19.29.30138.00
+Build Configuration: Development
+Branch Name: ++UE5+Release-5.0
+Command Line: 
+Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+Allocator: Mimalloc
+Installed Engine Build: 1
+Number of dev versions registered: 34
+  Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+  Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+  Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+  Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+  Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+  Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+  Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+  Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+  Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+  Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+  Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+  Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+  Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+  Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+  Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+  Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+  Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+  Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+  Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+  FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+  FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+  Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+  Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+  Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+  Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+  Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+  Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+  Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+  UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+  UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+  UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+  UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+  Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+  UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+Object subsystem initialized
+CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+Aftermath initialized
+Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+Found D3D12 adapter 0: NVIDIA GeForce GTX 1650 (Max supported Feature Level 12_1, shader model 6.6)
+Adapter has 3949MB of dedicated video memory, 0MB of dedicated system memory, and 4016MB of shared system memory, 1 output[s]
+Found D3D12 adapter 1: Intel(R) UHD Graphics 630 (Max supported Feature Level 12_1, shader model 6.5)
+Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 4016MB of shared system memory, 0 output[s]
+Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 4016MB of shared system memory, 0 output[s]
+Chosen D3D12 Adapter Id = 0
+Selected Device Profile: [WindowsEditor]
+Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+Platform has ~ 8 GB [8422346752 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+Going up to parent DeviceProfile [Windows]
+Going up to parent DeviceProfile []
+Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+Applying CVar settings from Section [ConsoleVariables] File [Engine]
+Applying CVar settings from Section [ConsoleVariables] File [C:/Users/rober/OneDrive/Escritorio/LWH_local/Saved/Config/WindowsEditor/Editor.ini]
+Computer: RRNIGHTMARE42
+User: rober
+CPU Page size=4096, Cores=6
+High frequency timer resolution =10.000000 MHz
+Memory total: Physical=7.8GB (8GB approx)
+Platform Memory Stats for WindowsEditor
+Process Physical Memory: 279.75 MB used, 287.36 MB peak
+Process Virtual Memory: 237.84 MB used, 237.84 MB peak
+Physical Memory: 7033.63 MB used,  998.55 MB free, 8032.18 MB total
+Virtual Memory: 26788.88 MB used,  5819.29 MB free, 32608.18 MB total
+Metadata set : extradevelopmentmemorymb="0"
+WindowsPlatformFeatures enabled
+Physics initialised using underlying interface: Chaos
+Overriding language with editor language configuration option (en).
+Overriding language with editor locale configuration option (en).
+Setting process to per monitor DPI aware
+Available input methods:
+  - Español (España, internacional) - (Keyboard).
+  - Español (España, internacional) - Corrección de entrada táctil (TSF IME).
+Activated input method: Español (España, internacional) - (Keyboard).
+New Slate User Created.  User Index 0, Is Virtual User: 0
+Slate User Registered.  User Index 0, Is Virtual User: 0
+InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[Aftermath] Aftermath crash dumping enabled
+Emitting draw events for PIX profiling.
+[Aftermath] Aftermath enabled and primed
+[Aftermath] Aftermath resource tracking enabled
+ID3D12Device1 is supported.
+ID3D12Device2 is supported.
+ID3D12Device3 is supported.
+ID3D12Device4 is supported.
+ID3D12Device5 is supported.
+ID3D12Device6 is supported.
+ID3D12Device7 is supported.
+Mesh shader tier 1.0 is supported
+AtomicInt64OnTypedResource is supported
+AtomicInt64OnGroupShared is supported
+AtomicInt64OnDescriptorHeapResource is supported
+Shader Model 6.6 atomic64 is supported
+[GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+    GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+Attached monitors:
+    resolution: 1920x1080, work area: (0, 0) -> (1920, 1020), device: '\\.\DISPLAY1' [PRIMARY]
+Found 1 attached monitors.
+EnumDisplayDevices:
+   0. 'Intel(R) UHD Graphics 630' (P:1 D:1), name: '\\.\DISPLAY1'
+   1. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY2'
+   2. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY3'
+   3. 'NVIDIA GeForce GTX 1650' (P:0 D:0), name: '\\.\DISPLAY4'
+   4. 'NVIDIA GeForce GTX 1650' (P:0 D:0), name: '\\.\DISPLAY5'
+   5. 'NVIDIA GeForce GTX 1650' (P:0 D:0), name: '\\.\DISPLAY6'
+   6. 'NVIDIA GeForce GTX 1650' (P:0 D:0), name: '\\.\DISPLAY7'
+DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+    Adapter Name: NVIDIA GeForce GTX 1650
+  Driver Version: 531.41 (internal:31.0.15.3141, unified:531.41)
+     Driver Date: 3-16-2023
+Texture pool is 2114 MB (70% of 3020 MB)
+Async texture creation enabled
+RHI has support for 64 bit atomics
+GeForceNow SDK initialized: 0
+Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/rober/OneDrive/Escritorio/LWH_local/Long_Way_Home.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/rober/OneDrive/Escritorio/LWH_local/Intermediate/TurnkeyReport_0.log" -log="C:/Users/rober/OneDrive/Escritorio/LWH_local/Intermediate/TurnkeyLog_0.log" -project="C:/Users/rober/OneDrive/Escritorio/LWH_local/Long_Way_Home.uproject"  -platform=all'
+Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/rober/OneDrive/Escritorio/LWH_local/Long_Way_Home.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/rober/OneDrive/Escritorio/LWH_local/Intermediate/TurnkeyReport_0.log" -log="C:/Users/rober/OneDrive/Escritorio/LWH_local/Intermediate/TurnkeyLog_0.log" -project="C:/Users/rober/OneDrive/Escritorio/LWH_local/Long_Way_Home.uproject"  -platform=all" ]
+ETC2 Texture loading DLL: TextureConverter.dll
+Oodle Texture TFO init; latest sdk version = 2.9.5
+Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+Loaded TargetPlatform 'Android'
+Loaded TargetPlatform 'Android_ASTC'
+Loaded TargetPlatform 'Android_DXT'
+Loaded TargetPlatform 'Android_ETC2'
+Loaded TargetPlatform 'AndroidClient'
+Loaded TargetPlatform 'Android_ASTCClient'
+Loaded TargetPlatform 'Android_DXTClient'
+Loaded TargetPlatform 'Android_ETC2Client'
+Loaded TargetPlatform 'Android_Multi'
+Loaded TargetPlatform 'Android_MultiClient'
+Loaded TargetPlatform 'HoloLens'
+Loaded TargetPlatform 'HoloLensClient'
+Loaded TargetPlatform 'IOS'
+Loaded TargetPlatform 'IOSClient'
+Loaded TargetPlatform 'Linux'
+Loaded TargetPlatform 'LinuxEditor'
+Loaded TargetPlatform 'LinuxServer'
+Loaded TargetPlatform 'LinuxClient'
+Loaded TargetPlatform 'LinuxArm64'
+Loaded TargetPlatform 'LinuxArm64Server'
+Loaded TargetPlatform 'LinuxArm64Client'
+Loaded TargetPlatform 'TVOS'
+Loaded TargetPlatform 'TVOSClient'
+Loaded TargetPlatform 'Windows'
+Loaded TargetPlatform 'WindowsEditor'
+Loaded TargetPlatform 'WindowsServer'
+Loaded TargetPlatform 'WindowsClient'
+Building Assets For WindowsEditor
+Lib vorbis DLL was dynamically loaded.
+Completed SDK detection: ExitCode = 0
+Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+Loaded format module AudioFormatADPCM
+  ADPCM
+  PCM
+Loaded format module AudioFormatBink
+  BINKA
+Loaded format module AudioFormatOgg
+  OGG
+Loaded format module AudioFormatOpus
+  OPUS
+Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+Loaded format module MetalShaderFormat
+  SF_METAL
+  SF_METAL_MRT
+  SF_METAL_TVOS
+  SF_METAL_MRT_TVOS
+  SF_METAL_SM5
+  SF_METAL_MACES3_1
+  SF_METAL_MRT_MAC
+Loaded format module ShaderFormatD3D
+  PCD3D_SM6
+  PCD3D_SM5
+  PCD3D_ES31
+  D3D_ES3_1_HOLOLENS
+Loaded format module ShaderFormatOpenGL
+  GLSL_150_ES31
+  GLSL_ES3_1_ANDROID
+Loaded format module ShaderFormatVectorVM
+  VVM_1_0
+Loaded format module VulkanShaderFormat
+  SF_VULKAN_SM5
+  SF_VULKAN_ES31_ANDROID
+  SF_VULKAN_ES31
+  SF_VULKAN_SM5_ANDROID
+Ray tracing is disabled. Reason: not supported by current RHI.
+Compiling shader autogen file: ../../../../../../Users/rober/OneDrive/Escritorio/LWH_local/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+Autogen file is unchanged, skipping write.
+Compiling shader autogen file: ../../../../../../Users/rober/OneDrive/Escritorio/LWH_local/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+Autogen file is unchanged, skipping write.
+FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/rober/OneDrive/Escritorio/LWH_local/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+Unable to find inner node Pak for hierarchy Hierarchy.
+FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/rober/OneDrive/Escritorio/LWH_local/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node CompressedPak for hierarchy Hierarchy.
+../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+Speed tests for C:/Users/rober/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+Performance to C:/Users/rober/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.27ms. RandomReadSpeed=80.70MBs, RandomWriteSpeed=39.87MBs. Assigned SpeedClass 'Local'
+Using Local data cache path C:/Users/rober/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+Shared data cache path not found in *engine.ini, will not use an Shared cache.
+Unable to find inner node Shared for hierarchy Hierarchy.
+VirtualizationSystem name found in ini file: None
+FNullVirtualizationSystem mounted, virtualization will be disabled
+Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Users/rober/OneDrive/Escritorio/LWH_local/Intermediate/Shaders/WorkingDirectory/6964/).
+Cleaned the shader compiler working directory 'C:/Users/rober/AppData/Local/Temp/UnrealShaderWorkingDir/AD902CB04F6FE34C1862C5AD19B831A3/'.
+Cannot use XGE Controller as Incredibuild is not installed on this machine.
+Using Local Shader Compiler with 9 workers.
+Using FreeType 2.10.0
+SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+FAssetRegistry took 0.0661 seconds to start up
+EditorDomain is Disabled
+Package C:/Users/rober/OneDrive/Escritorio/LWH_local/Content/BluePrints/ShootnReload.uasset is too new. Engine Version: 1004  Package Version: 1008
+UsePackageTrailer: 'false'
+Texture Encode Speed: FinalIfAvailable (editor).
+Selected Device Profile: [WindowsEditor]
+Active device profile: [000005D02BAD94C0][000005D021E7A000 50] WindowsEditor
+Profiles: [000005D02BAD8F80][000005D021E7C800 50] Windows, [000005D02BAD94C0][000005D021E7A000 50] WindowsEditor, [000005D02BAD8340][000005CFF2A7C800 50] WindowsServer, [000005D02BAD6C80][000005D02BE80000 50] WindowsClient, [000005D02BAD6740][000005D02BE85000 50] IOS, [000005D02BAD6580][000005D02BE87800 50] iPadAir2, [000005D02BAD8C00][000005D02BE8C800 50] IPadPro, [000005D02BAD8A40][000005D02BE8A000 50] iPadAir3, [000005D02BAD6200][000005D021E77800 50] iPadAir4, [000005D02BAD8500][000005D02BEB0000 50] iPadMini4, [000005D02BAD5780][000005D02BEB5000 50] iPadMini5, [000005D02BAD7E00][000005D02BEB7800 50] iPadMini6, [000005D02BADC940][000005D02BE82800 50] iPhone6S, [000005D02BADC780][000005D02BEBC800 50] iPhone7, [000005D02BADC400][000005D02BEBA000 50] iPodTouch7, [000005D02BAD5940][000005D02BEC0000 50] iPhone6SPlus, [000005D02BAD5CC0][000005D02BEC5000 50] iPhone7Plus, [000005D02BAD55C0][000005D02BEC7800 50] iPhoneSE, [000005D02BAD5400][000005D02BECA000 50] iPhone8, [000005D02BAD7FC0][000005D02BECC800 50] iPhone8Plus, [000005D02BAD47C0][000005D02BEB2800 50] iPhoneX, [000005D02BAD5B00][000005D02BEE0000 50] iPhoneXS, [000005D02BAD6AC0][000005D02BEE5000 50] iPhoneXSMax, [000005D02BADBEC0][000005D02BEE7800 50] iPhoneXR, [000005D02BADC240][000005D02BEEA000 50] iPhone11, [000005D02BADBD00][000005D02BEEC800 50] iPhone11Pro, [000005D02BAD6900][000005D02BEC2800 50] iPhone11ProMax, [000005D02BADBB40][000005D02BEF0000 50] iPhoneSE2, [000005D02BAD9300][000005D02BEF5000 50] iPhone12Mini, [000005D02BADB980][000005D02BEF7800 50] iPhone12, [000005D02BAD8880][000005D02BEFA000 50] iPhone12Pro, [000005D02BADB280][000005D02BEFC800 50] iPhone12ProMax, [000005D02BAD9A00][000005D02BEE2800 50] iPhone13Mini, [000005D02BADC5C0][000005D02BF00000 50] iPhone13, [000005D02BAD7A80][000005D02BF05000 50] iPhone13Pro, [000005D02BAD8180][000005D02BF07800 50] iPhone13ProMax, [000005D02BAD78C0][000005D02BF0A000 50] iPadPro105, [000005D02BAD7540][000005D02BF0C800 50] iPadPro129, [000005D02BADB600][000005D02BEF2800 50] iPadPro97, [000005D02BAD7380][000005D02BF10000 50] iPadPro2_129, [000005D02BADA480][000005D02BF15000 50] iPad5, [000005D02BAD7700][000005D02BF17800 50] iPad6, [000005D02BAD86C0][000005D02BF1A000 50] iPad7, [000005D02BAD8DC0][000005D02BF1C800 50] iPad8, [000005D02BADA100][000005D02BF02800 50] iPad9, [000005D02BAD4D00][000005D02BF20000 50] iPadPro11, [000005D02BADB0C0][000005D02BF25000 50] iPadPro2_11, [000005D02BAD9680][000005D02BF27800 50] iPadPro3_11, [000005D02BADB7C0][000005D02BF2A000 50] iPadPro3_129, [000005D02BADA640][000005D02BF2C800 50] iPadPro4_129, [000005D02BAD5E80][000005D02BF12800 50] iPadPro5_129, [000005D02BAD5080][000005D02BF30000 50] AppleTV, [000005D02BADA800][000005D02BF35000 50] AppleTV4K, [000005D02BAD71C0][000005D02BF37800 50] TVOS, [000005D02BADEE00][000005D02BF3C800 50] Mac, [000005D02BADF180][000005D02BF3A000 50] MacEditor, [000005D02BADE380][000005D02BF22800 50] MacClient, [000005D02BAD9BC0][000005D02BF50000 50] MacServer, [000005D02BADF340][000005D02BF57800 50] Linux, [000005D02BAD9D80][000005D02BF55000 50] LinuxEditor, [000005D02BADAF00][000005D02BF5A000 50] LinuxArm64Editor, [000005D02BAD7000][000005D02BF5C800 50] LinuxArm64, [000005D02BADE000][000005D02BF32800 50] LinuxClient, [000005D02BADEC40][000005D02BF60000 50] LinuxArm64Client, [000005D02BADE540][000005D02BF65000 50] LinuxServer, [000005D02BADE8C0][000005D02BF67800 50] LinuxArm64Server, [000005D02BADD3C0][000005D02BF6A000 50] Android, [000005D02BADCE80][000005D02BF6C800 50] Android_Preview_OpenGL, [000005D02BADF500][000005D02BF52800 50] Android_Preview_Vulkan, [000005D02BAD9F40][000005D02BF70000 50] Android_Low, [000005D02BADDAC0][000005D02BF75000 50] Android_Mid, [000005D02BADCB00][000005D02BF77800 50] Android_High, [000005D02BAD6E40][000005D02BF7A000 50] Android_Default, [000005D02BADD040][000005D02BF7C800 50] Android_Adreno4xx, [000005D02BADAD40][000005D02BF62800 50] Android_Adreno5xx_Low, [000005D02BADE1C0][000005D02BF80000 50] Android_Adreno5xx, [000005D02BADAB80][000005D02BF85000 50] Android_Adreno6xx, [000005D02BADD200][000005D02BF87800 50] Android_Adreno6xx_Vulkan, [000005D02BADFA40][000005D02BF8A000 50] Android_Adreno7xx, [000005D02BAD63C0][000005D02BF8C800 50] Android_Adreno7xx_Vulkan, [000005D02BADB440][000005D02BF72800 50] Android_Mali_T6xx, [000005D02BADD740][000005D02BF90000 50] Android_Mali_T7xx, [000005D02BADA2C0][000005D02BF95000 50] Android_Mali_T8xx, [000005D02BADF880][000005D02BF97800 50] Android_Mali_G71, [000005D02BFB0000][000005D02BF9A000 50] Android_Mali_G72, [000005D02BFB2300][000005D02BF9C800 50] Android_Mali_G72_Vulkan, [000005D02BFB2140][000005D02BF82800 50] Android_Mali_G76, [000005D02BFB1F80][000005D02BFA0000 50] Android_Mali_G76_Vulkan, [000005D02BFB1DC0][000005D02BFA5000 50] Android_Mali_G77, [000005D02BFB24C0][000005D02BFA7800 50] Android_Mali_G77_Vulkan, [000005D02BFB0380][000005D02BFAA000 50] Android_Mali_G78, [000005D02BFB0E00][000005D02BFAC800 50] Android_Mali_G78_Vulkan, [000005D02BFB0C40][000005D02BF92800 50] Android_Mali_G710, [000005D02BFB16C0][000005D02BFC0000 50] Android_Mali_G710_Vulkan, [000005D02BFB2D80][000005D02BFC5000 50] Android_Xclipse_920, [000005D02BFB0540][000005D02BFC7800 50] Android_Xclipse_920_Vulkan, [000005D02BFB1C00][000005D02BFCA000 50] Android_Vulkan_SM5, [000005D02BFB32C0][000005D02BFCC800 50] Android_PowerVR_G6xxx, [000005D02BFB2BC0][000005D02BFA2800 50] Android_PowerVR_GT7xxx, [000005D02BFB0700][000005D02BFD0000 50] Android_PowerVR_GE8xxx, [000005D02BFB01C0][000005D02BFD5000 50] Android_PowerVR_GM9xxx, [000005D02BFB2A00][000005D02BFD7800 50] Android_PowerVR_GM9xxx_Vulkan, [000005D02BFB2F40][000005D02BFDA000 50] Android_TegraK1, [000005D02BFB0FC0][000005D02BFDC800 50] Android_Unknown_Vulkan, [000005D02BFB1A40][000005D02BFC2800 50] Oculus_Quest, [000005D02BFB39C0][000005D02BFE0000 50] Oculus_Quest2, [000005D02BFB0A80][000005D02BFE5000 50] HoloLens, 
+Metadata set : deviceprofile="WindowsEditor"
+Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+Missing cached shadermap for WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 7E3F30241C480BFDB2A9790FB0C903A96560D294), compiling. Is special engine material.
+Missing cached shadermap for DefaultDeferredDecalMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 4887E8AD4CB82CEADBA62E3B444932C1EE6B53CE), compiling. 
+Missing cached shadermap for DefaultLightFunctionMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: BE7BB468CC70E69755399A0F027CB05387C57CAA), compiling. 
+Worker (4/9) finished batch of 10 jobs in 94.787s, FGSConvolutionWithTextureCS [WorkerTime=45.751s], FReflectionEnvironmentSkyLightingPS [WorkerTime=26.285s], FIntersectionMainRG [WorkerTime=5.345s], FLumenDirectLightingSampleShadowMapCS [WorkerTime=3.757s], FGSComplexTransformCS [WorkerTime=2.854s], FAmbientOcclusionSmoothCS [WorkerTime=2.168s], FClearReplacementCS_Texture2D_Uint4_Bounds [WorkerTime=1.661s], FBinkDrawICtCpPS [WorkerTime=1.660s], FWaterRefractionCopyPS [WorkerTime=0.539s], FClearClusterAABBCS [WorkerTime=0.474s]
+C:/Users/rober/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.125 and deleted 0 file(s) with total size 0 MiB.
+Worker (5/9) finished batch of 10 jobs in 78.124s, FScreenProbeIntegrateCS [WorkerTime=31.870s], TBasePassVSTLightMapPolicyHQ [WorkerTime=12.738s], FTranslucentLightingInjectPS [WorkerTime=9.451s], FLumenCardVS [WorkerTime=6.833s], FHWRasterizePS [WorkerTime=4.883s], FLumenRadianceCacheHardwareRayTracingRGS [WorkerTime=4.864s], FHWRasterizeVS [WorkerTime=2.231s], FHWRasterizeVS [WorkerTime=2.029s], FHairClusterAABBCS [WorkerTime=1.351s], FGenerateMipsCS [WorkerTime=1.192s]
+Worker (8/9) finished batch of 10 jobs in 64.729s, TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=13.532s], TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=9.177s], FDebugViewModeVS [WorkerTime=7.937s], FGTAOHorizonSearchAndIntegrateCS [WorkerTime=7.849s], FLumenCardVS [WorkerTime=7.087s], TBasePassPSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=6.487s], TBasePassVSFSelfShadowedTranslucencyPolicy [WorkerTime=4.526s], FHWRasterizeVS [WorkerTime=4.374s], FLumenCardPS<false> [WorkerTime=1.977s], FHairInterpolationCS [WorkerTime=1.213s]
+Worker (6/9) finished batch of 10 jobs in 65.185s, TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=15.179s], FLumenCardVS [WorkerTime=11.695s], FHWRasterizePS [WorkerTime=9.225s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=5.974s], TBasePassPSTLightMapPolicyLQ [WorkerTime=4.944s], TShadowDepthVSVertexShadowDepth_VirtualShadowMap [WorkerTime=4.396s], FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs [WorkerTime=4.380s], FTonemapCS [WorkerTime=3.396s], FHWRasterizeVS [WorkerTime=2.578s], FHairInterpolationCS [WorkerTime=2.144s]
+Worker (9/9) finished batch of 10 jobs in 69.563s, TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=19.918s], FHWRasterizePS [WorkerTime=12.073s], TBasePassVSFSelfShadowedCachedPointIndirectLightingPolicy [WorkerTime=8.722s], FRayTracingDynamicGeometryConverterCS [WorkerTime=6.039s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight [WorkerTime=5.980s], FHWRasterizeVS [WorkerTime=5.256s], FHWRasterizePS [WorkerTime=4.485s], FDebugViewModeVS [WorkerTime=3.430s], FMeshDecalsEmissivePS [WorkerTime=1.723s], FHairInterpolationCS [WorkerTime=1.707s]
+Worker (1/9) finished batch of 10 jobs in 73.957s, TMaterialCHSFNoLightMapPolicy [WorkerTime=16.633s], FSubsurfaceIndirectDispatchCS [WorkerTime=13.008s], FHWRasterizePS [WorkerTime=11.786s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=11.697s], FPathTracingMaterialCHS [WorkerTime=6.977s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=4.556s], FHairInterpolationCS [WorkerTime=3.124s], FLumenCardVS [WorkerTime=2.816s], FHWRasterizePS [WorkerTime=1.786s], TLightMapDensityPSFDummyLightMapPolicy [WorkerTime=0.941s]
+Worker (6/9) finished batch of 10 jobs in 77.100s, FVolumetricFogLightScatteringCS [WorkerTime=21.429s], FHWRasterizePS [WorkerTime=17.793s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=10.332s], TShadowDepthVSVertexShadowDepth_VirtualShadowMap [WorkerTime=7.451s], TBasePassVSFSelfShadowedVolumetricLightmapPolicy [WorkerTime=4.417s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=3.802s], FHWRasterizePS [WorkerTime=3.505s], FTranslucentLightingInjectPS [WorkerTime=2.795s], FTranslucentLightingInjectPS [WorkerTime=2.515s], FHairInterpolationCS [WorkerTime=2.317s]
+Worker (5/9) finished batch of 10 jobs in 65.049s, FScreenProbeTraceMeshSDFsCS [WorkerTime=29.144s], FLumenCardVS [WorkerTime=8.255s], FTSRResolveHistoryCS [WorkerTime=5.564s], TBasePassVSFNoLightMapPolicy [WorkerTime=4.771s], FHitProxyPS [WorkerTime=4.280s], FHWRasterizeVS [WorkerTime=3.899s], FHairInterpolationCS [WorkerTime=3.166s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=2.828s], FHitProxyPS [WorkerTime=1.331s], FTonemapCS [WorkerTime=1.052s]
+Worker (8/9) finished batch of 10 jobs in 81.355s, FScreenProbeIntegrateCS [WorkerTime=46.516s], TShadowDepthVSVertexShadowDepth_PerspectiveCorrect [WorkerTime=9.196s], TBasePassVSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=5.344s], FSubsurfaceIndirectDispatchCS [WorkerTime=4.969s], TLightMapDensityVSTLightMapPolicyLQ [WorkerTime=3.787s], FHWRasterizeVS [WorkerTime=3.049s], FHitProxyPS [WorkerTime=2.959s], FHWRasterizeVS [WorkerTime=2.148s], FHairInterpolationCS [WorkerTime=1.367s], FNiagaraDebugDrawLinePS [WorkerTime=0.655s]
+Worker (1/9) finished batch of 10 jobs in 152.423s, FPersistentClusterCull_CS [WorkerTime=99.590s], FHWRasterizeVS [WorkerTime=16.250s], FHWRasterizeVS [WorkerTime=7.831s], FHWRasterizeVS [WorkerTime=7.555s], FHWRasterizePS [WorkerTime=5.368s], FHWRasterizePS [WorkerTime=5.085s], FHWRasterizeVS [WorkerTime=4.226s], TShadowDepthPSPixelShadowDepth_VirtualShadowMap [WorkerTime=1.675s], FHairInterpolationCS [WorkerTime=1.633s], FNiagaraGPURayTracingTransformsCS [WorkerTime=1.362s]
+Worker (4/9) finished batch of 10 jobs in 65.876s, FReflectionEnvironmentSkyLightingPS [WorkerTime=21.417s], TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=8.928s], FLumenScreenProbeGatherHardwareRayTracingRGS [WorkerTime=8.708s], TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=5.809s], FHWRasterizeVS [WorkerTime=5.696s], FMicropolyRasterizeCS [WorkerTime=4.015s], FHWRasterizeVS [WorkerTime=3.792s], TBasePassPSFNoLightMapPolicy [WorkerTime=2.990s], FHWRasterizeVS [WorkerTime=2.123s], FHairInterpolationCS [WorkerTime=1.914s]
+FShaderCompileThreadRunnable::WriteNewTasks()() took too long (0.303 seconds, threshold is 0.300 s), will parallelize next time.
+Worker (5/9) finished batch of 10 jobs in 70.553s, TBasePassPSFCachedPointIndirectLightingPolicySkylight [WorkerTime=15.970s], TMaterialCHSTLightMapPolicyHQ [WorkerTime=15.030s], TBasePassPSTLightMapPolicyLQ [WorkerTime=8.466s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=6.495s], TBasePassPSFCachedVolumeIndirectLightingPolicySkylight [WorkerTime=5.966s], FHitProxyVS [WorkerTime=5.229s], TShadowDepthPSPixelShadowDepth_PerspectiveCorrect [WorkerTime=4.223s], TBasePassPSFNoLightMapPolicy [WorkerTime=3.897s], FHairInterpolationCS [WorkerTime=1.791s], TLightMapDensityPSFNoLightMapPolicy [WorkerTime=1.709s]
+Worker (8/9) finished batch of 10 jobs in 67.209s, TBasePassPSFNoLightMapPolicySkylight [WorkerTime=16.350s], FLumenRadianceCacheHardwareRayTracingRGS [WorkerTime=14.020s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=6.950s], TBasePassPSTLightMapPolicyLQ [WorkerTime=5.684s], TShadowDepthVSVertexShadowDepth_OutputDepthPositionOnly [WorkerTime=4.790s], FHairInterpolationCS [WorkerTime=4.358s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=3.595s], TShadowDepthPSPixelShadowDepth_PerspectiveCorrect [WorkerTime=3.029s], FLumenCardPS<false> [WorkerTime=1.517s], TShadowDepthPSPixelShadowDepth_PerspectiveCorrect [WorkerTime=1.354s]
+Worker (9/9) finished batch of 10 jobs in 62.744s, TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=18.302s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight [WorkerTime=14.070s], TMaterialCHSFNoLightMapPolicy [WorkerTime=10.928s], FDebugViewModeVS [WorkerTime=4.396s], TShadowDepthVSVertexShadowDepth_OutputDepth [WorkerTime=3.626s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=2.711s], FHairInterpolationCS [WorkerTime=1.671s], TShadowDepthPSPixelShadowDepth_PerspectiveCorrect [WorkerTime=1.003s], FDeformGuideCS [WorkerTime=0.509s], DepthPosOnlyNoPixelPipeline
+Worker (2/9) finished batch of 10 jobs in 68.111s, TBasePassPSTLightMapPolicyHQ [WorkerTime=18.655s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=11.686s], TBasePassPSTLightMapPolicyLQ [WorkerTime=10.758s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=6.499s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=5.533s], TBasePassPSFCachedVolumeIndirectLightingPolicySkylight [WorkerTime=4.445s], FHitProxyPS [WorkerTime=4.389s], TBasePassPSFCachedVolumeIndirectLightingPolicySkylight [WorkerTime=3.211s], FHairInterpolationCS [WorkerTime=1.168s], FLumenCardPS<false> [WorkerTime=0.912s]
+Worker (4/9) finished batch of 10 jobs in 82.081s, FScreenProbeIntegrateCS [WorkerTime=41.379s], FDebugViewModePS [WorkerTime=6.776s], TBasePassVSFCachedVolumeIndirectLightingPolicy [WorkerTime=6.223s], FCapsuleShadowingCS [WorkerTime=5.772s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=5.328s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=4.466s], TBasePassVSFNoLightMapPolicy [WorkerTime=4.362s], TBasePassVSTLightMapPolicyHQ [WorkerTime=3.686s], FYUVv210ConvertPS [WorkerTime=2.692s], FHairInterpolationCS [WorkerTime=0.620s]
+Worker (5/9) finished batch of 10 jobs in 86.125s, FHairEnvironmentLightingPS [WorkerTime=30.287s], FReflectionEnvironmentSkyLightingPS [WorkerTime=26.935s], FLumenReflectionHardwareRayTracingRGS [WorkerTime=12.419s], TBasePassPSFNoLightMapPolicy [WorkerTime=4.696s], FHitProxyPS [WorkerTime=4.457s], TBasePassPSFNoLightMapPolicy [WorkerTime=3.075s], FDistanceFieldShadowingCS [WorkerTime=1.967s], FReconstructVolumetricRenderTargetPS [WorkerTime=1.020s], FHairInterpolationCS [WorkerTime=0.489s], FOculusCubemapPS [WorkerTime=0.210s]
+Worker (8/9) finished batch of 10 jobs in 73.931s, FScreenProbeTraceMeshSDFsCS [WorkerTime=23.289s], FPathTracingMaterialCHS [WorkerTime=11.269s], TLightMapDensityVSFDummyLightMapPolicy [WorkerTime=5.063s], FPathTracingMaterialCHS [WorkerTime=4.977s], TShadowDepthVSVertexShadowDepth_OnePassPointLight [WorkerTime=3.218s], TShadowDepthPSPixelShadowDepth_PerspectiveCorrect [WorkerTime=1.892s], TBasePassVSFCachedVolumeIndirectLightingPolicy [WorkerTime=1.621s], FHairInterpolationCS [WorkerTime=1.427s], VelocityPipeline, VelocityPipeline
+Worker (1/9) finished batch of 10 jobs in 80.509s, TMaterialCHSFNoLightMapPolicy [WorkerTime=18.745s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=12.072s], TBasePassPSTLightMapPolicyLQSkylight [WorkerTime=11.598s], TLightMapDensityPSTLightMapPolicyHQ [WorkerTime=7.262s], FLumenCardPS<true> [WorkerTime=5.829s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=4.707s], FHairInterpolationCS [WorkerTime=2.347s], TShadowDepthPSPixelShadowDepth_OnePassPointLight [WorkerTime=2.210s], TShadowDepthPSPixelShadowDepth_VirtualShadowMap [WorkerTime=0.835s], VelocityPipeline
+Worker (2/9) finished batch of 10 jobs in 68.021s, TMaterialCHSTLightMapPolicyHQ [WorkerTime=30.190s], TBasePassPSFCachedVolumeIndirectLightingPolicySkylight [WorkerTime=6.725s], TShadowDepthVSVertexShadowDepth_PerspectiveCorrect [WorkerTime=5.652s], TBasePassVSFNoLightMapPolicy [WorkerTime=4.484s], FHairInterpolationCS [WorkerTime=4.219s], FDebugViewModeVS [WorkerTime=3.716s], FAmbientOcclusionPS [WorkerTime=3.515s], TLightMapDensityPSFNoLightMapPolicy [WorkerTime=3.252s], TLightMapDensityVSTLightMapPolicyHQ [WorkerTime=2.973s], FHitProxyVS [WorkerTime=2.607s]
+Worker (5/9) finished batch of 10 jobs in 70.158s, TMaterialCHSTDistanceFieldShadowsAndLightMapPolicyHQ [WorkerTime=26.583s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=9.662s], FHitProxyVS [WorkerTime=6.668s], TShadowDepthVSVertexShadowDepth_PerspectiveCorrect [WorkerTime=4.090s], TShadowDepthVSVertexShadowDepth_VirtualShadowMap [WorkerTime=3.957s], TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight [WorkerTime=3.750s], TBasePassVSFNoLightMapPolicy [WorkerTime=2.628s], FHairInterpolationCS [WorkerTime=2.326s], TShadowDepthPSPixelShadowDepth_NonPerspectiveCorrect [WorkerTime=1.501s], DepthNoPixelPipeline
+Worker (4/9) finished batch of 10 jobs in 95.224s, FPersistentClusterCull_CS [WorkerTime=60.978s], TBasePassVSTLightMapPolicyHQ [WorkerTime=10.343s], FDebugViewModeVS [WorkerTime=7.121s], TBasePassPSTLightMapPolicyHQ [WorkerTime=3.805s], TShadowDepthVSVertexShadowDepth_OutputDepth [WorkerTime=3.628s], TShadowDepthPSPixelShadowDepth_VirtualShadowMap [WorkerTime=2.595s], FHZBBuildCS [WorkerTime=2.002s], TLightMapDensityPSFNoLightMapPolicy [WorkerTime=1.947s], TShadowDepthPSPixelShadowDepth_PerspectiveCorrect [WorkerTime=1.820s], FHairInterpolationCS [WorkerTime=0.515s]
+Worker (1/9) finished batch of 10 jobs in 94.002s, FDiaphragmDOFGatherCS [WorkerTime=64.200s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=7.842s], TShadowDepthVSVertexShadowDepth_VirtualShadowMap [WorkerTime=7.788s], FHitProxyVS [WorkerTime=4.456s], FHitProxyVS [WorkerTime=3.509s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=2.034s], FHairInterpolationCS [WorkerTime=1.564s], TShadowDepthPSPixelShadowDepth_OnePassPointLight [WorkerTime=1.196s], FHitProxyPS [WorkerTime=0.818s], FClearUAVUIntCS [WorkerTime=0.360s]
+Worker (7/9) finished batch of 10 jobs in 71.039s, FPersistentClusterCull_CS [WorkerTime=39.911s], FLumenScreenProbeGatherHardwareRayTracingRGS [WorkerTime=8.712s], FDebugViewModePS [WorkerTime=5.651s], TShadowDepthVSVertexShadowDepth_OutputDepth [WorkerTime=3.614s], FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs [WorkerTime=2.711s], FComputeCulledTilesStartOffsetCS [WorkerTime=1.113s], TLightMapDensityPSFNoLightMapPolicy [WorkerTime=1.056s], TShadowDepthPSPixelShadowDepth_PerspectiveCorrect [WorkerTime=0.738s], FHairInterpolationCS [WorkerTime=0.541s], DepthNoPixelPipeline
+Worker (1/9) finished batch of 10 jobs in 86.974s, FPersistentClusterCull_CS [WorkerTime=45.385s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=9.624s], FHitProxyVS [WorkerTime=7.808s], FHitProxyVS [WorkerTime=7.173s], FSubsurfaceIndirectDispatchCS [WorkerTime=5.475s], TShadowDepthPSPixelShadowDepth_VirtualShadowMap [WorkerTime=4.019s], TBasePassPSFNoLightMapPolicySkylight [WorkerTime=3.487s], TShadowDepthVSVertexShadowDepth_VirtualShadowMap [WorkerTime=1.877s], FClearRadianceCacheUpdateResourcesCS [WorkerTime=1.252s], FHairInterpolationCS [WorkerTime=0.367s]
+Worker (5/9) finished batch of 10 jobs in 67.447s, FPathTracingMaterialCHS [WorkerTime=28.740s], FMicropolyRasterizeCS [WorkerTime=9.475s], TBasePassPSFCachedVolumeIndirectLightingPolicySkylight [WorkerTime=3.740s], FDeferredLightPS [WorkerTime=3.349s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight [WorkerTime=3.223s], TShadowDepthPSPixelShadowDepth_PerspectiveCorrect [WorkerTime=3.152s], FBuildInstanceIdBufferAndCommandsFromPrimitiveIdsCs [WorkerTime=2.204s], FHairInterpolationCS [WorkerTime=1.913s], TLightMapDensityVSFNoLightMapPolicy [WorkerTime=1.053s], VelocityPipeline
+Worker (4/9) finished batch of 10 jobs in 72.019s, FLumenScreenProbeGatherHardwareRayTracingRGS [WorkerTime=28.803s], TBasePassVSFCachedVolumeIndirectLightingPolicy [WorkerTime=11.296s], TBasePassPSFCachedVolumeIndirectLightingPolicy [WorkerTime=8.004s], TBasePassVSFCachedPointIndirectLightingPolicy [WorkerTime=7.133s], FDebugViewModeVS [WorkerTime=6.015s], TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=3.565s], TBasePassPSTLightMapPolicyLQSkylight [WorkerTime=2.997s], FHairInterpolationCS [WorkerTime=2.065s], TShadowDepthPSPixelShadowDepth_VirtualShadowMap [WorkerTime=0.740s], TShadowDepthPSPixelShadowDepth_VirtualShadowMap [WorkerTime=0.709s]
+Worker (9/9) finished batch of 10 jobs in 90.826s, FReflectionEnvironmentSkyLightingPS [WorkerTime=21.953s], TMaterialCHSTLightMapPolicyHQ [WorkerTime=18.519s], FOcclusionRGS [WorkerTime=11.684s], FDebugViewModePS [WorkerTime=9.776s], TBasePassPSFCachedPointIndirectLightingPolicy [WorkerTime=7.060s], TBasePassPSFNoLightMapPolicy [WorkerTime=6.653s], FInstanceCull_CS [WorkerTime=5.696s], TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy [WorkerTime=3.557s], FHairInterpolationCS [WorkerTime=2.293s], TLightMapDensityPSFNoLightMapPolicy [WorkerTime=1.797s]
+SCW 10 Queued Jobs, Finished 6 single jobs
+Job 0 [Single] Global/FHairUpdateMeshTriangleCS/2:/Engine/Private/HairStrands/HairStrandsMeshUpdate.usf Type 'FHairUpdateMeshTriangleCS' '/Engine/Private/HairStrands/HairStrandsMeshUpdate.usf' Entry 'MainCS' Permutation 2 
+Job 1 [Single] Global/FHairClusterCullingCompactVertexIdsLocalBlockCS/0:/Engine/Private/HairStrands/HairStrandsClusterCulling.usf Type 'FHairClusterCullingCompactVertexIdsLocalBlockCS' '/Engine/Private/HairStrands/HairStrandsClusterCulling.usf' Entry 'MainClusterCullingCompactVertexIdsLocalBlockCS' Permutation 0 
+Job 2 [Single] Global/FPostProcessBenchmarkPS5/0:/Engine/Private/GPUBenchmark.usf Type 'FPostProcessBenchmarkPS5' '/Engine/Private/GPUBenchmark.usf' Entry 'MainPS' Permutation 0 
+Job 3 [Single] WorldGridMaterial/TWaterVertexFactory< false>/TBasePassVSFNoLightMapPolicy/0:/Engine/Private/BasePassVertexShader.usf VF 'TWaterVertexFactory< false>' Type 'TBasePassVSFNoLightMapPolicy' '/Engine/Private/BasePassVertexShader.usf' Entry 'Main' Permutation 0 
+Job 4 [Single] WorldGridMaterial/TGPUSkinMorphVertexFactoryUnlimited/TLightMapDensityPSFNoLightMapPolicy/0:/Engine/Private/LightMapDensityShader.usf VF 'TGPUSkinMorphVertexFactoryUnlimited' Type 'TLightMapDensityPSFNoLightMapPolicy' '/Engine/Private/LightMapDensityShader.usf' Entry 'MainPixelShader' Permutation 0 
+Job 5 [Single] WorldGridMaterial/FVectorFieldVisualizationVertexFactory/TShadowDepthVSVertexShadowDepth_VirtualShadowMap/0:/Engine/Private/ShadowDepthVertexShader.usf VF 'FVectorFieldVisualizationVertexFactory' Type 'TShadowDepthVSVertexShadowDepth_VirtualShadowMap' '/Engine/Private/ShadowDepthVertexShader.usf' Entry 'Main' Permutation 0 
+Job 6 [Single] WorldGridMaterial/FGeometryCollectionVertexFactory/TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy/0:/Engine/Private/RayTracing/RayTracingMaterialHitShaders.usf VF 'FGeometryCollectionVertexFactory' Type 'TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicy' '/Engine/Private/RayTracing/RayTracingMaterialHitShaders.usf' Entry 'closesthit=MaterialCHS' Permutation 0 
+Job 7 [Single] WorldGridMaterial/FLandscapeXYOffsetVertexFactory/TLightMapDensityPSTLightMapPolicyHQ/0:/Engine/Private/LightMapDensityShader.usf VF 'FLandscapeXYOffsetVertexFactory' Type 'TLightMapDensityPSTLightMapPolicyHQ' '/Engine/Private/LightMapDensityShader.usf' Entry 'MainPixelShader' Permutation 0 
+Job 8 [Single] WorldGridMaterial/FLandscapeXYOffsetVertexFactory/TBasePassPSTLightMapPolicyLQSkylight/0:/Engine/Private/BasePassPixelShader.usf VF 'FLandscapeXYOffsetVertexFactory' Type 'TBasePassPSTLightMapPolicyLQSkylight' '/Engine/Private/BasePassPixelShader.usf' Entry 'MainPS' Permutation 0 
+Job 9 [Single] WorldGridMaterial/FLandscapeXYOffsetVertexFactory/TBasePassVSTLightMapPolicyHQ/0:/Engine/Private/BasePassVertexShader.usf VF 'FLandscapeXYOffsetVertexFactory' Type 'TBasePassVSTLightMapPolicyHQ' '/Engine/Private/BasePassVertexShader.usf' Entry 'Main' Permutation 0 
+Windows GetLastError: La operación se completó correctamente. (0)
