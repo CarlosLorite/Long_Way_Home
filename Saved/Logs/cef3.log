@@ -501,3 +501,12 @@
 [0613/100242.261:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [0613/100243.212:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
 [0613/100243.212:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0613/125657.827:WARNING:backend_impl.cc(1592)] Messed up entry found.
+[0613/125657.827:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0613/125657.839:WARNING:storage_block-inl.h(146)] Failed data load.
+[0613/125657.839:WARNING:storage_block-inl.h(146)] Failed data load.
+[0613/125657.839:WARNING:storage_block-inl.h(146)] Failed data load.
+[0613/125657.839:WARNING:storage_block-inl.h(146)] Failed data load.
+[0613/125657.841:WARNING:storage_block-inl.h(146)] Failed data load.
+[0613/125657.841:WARNING:storage_block-inl.h(146)] Failed data load.
+[0613/125657.841:ERROR:entry_impl.cc(998)] Failed to save user data
