@@ -1,5 +1,14 @@
-2023/04/11-10:01:56.749 e14 Reusing MANIFEST D:/UNREAL/Long_Way_Home/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/04/11-12:34:06.843 4c28 Level-0 table #5: started
-2023/04/11-12:34:06.880 4c28 Level-0 table #5: 7477 bytes OK
-2023/04/11-12:34:06.900 4c28 Delete type=0 #3
-2023/04/11-12:34:06.900 4c28 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/04/25-10:56:09.654 32d0 Reusing MANIFEST D:/UNREAL/Long_Way_Home/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/25-10:56:09.654 32d0 Recovering log #4
+2023/04/25-10:56:09.654 32d0 Reusing old log D:/UNREAL/Long_Way_Home/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
+2023/04/25-10:56:09.954 583c Level-0 table #8: started
+2023/04/25-10:56:10.029 583c Level-0 table #8: 1089 bytes OK
+2023/04/25-10:56:10.067 583c Delete type=0 #4
+2023/04/25-10:56:10.068 583c Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/04/25-10:56:10.068 583c Manual compaction at level-1 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00`\xc7\x13\xfevxB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 207 : 0
+2023/04/25-10:56:10.068 583c Compacting 1@1 + 1@2 files
+2023/04/25-10:56:10.139 583c Generated table #9@1: 22 keys, 753 bytes
+2023/04/25-10:56:10.139 583c Compacted 1@1 + 1@2 files => 753 bytes
+2023/04/25-10:56:10.167 583c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/25-10:56:10.167 583c Delete type=2 #8
+2023/04/25-10:56:10.167 583c Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00`\xc7\x13\xfevxB\x00\x03\x00\x00\x00\x00\x00\x00\x00@' @ 207 : 0 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)

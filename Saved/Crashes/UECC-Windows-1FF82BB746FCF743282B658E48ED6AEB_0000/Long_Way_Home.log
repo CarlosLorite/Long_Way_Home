@@ -1,0 +1,1608 @@
+﻿Log file open, 06/14/23 10:14:36
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=20284)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Long_Way_Home
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" D:/UNREAL/Long_Way_Home/Long_Way_Home.uproject -EpicPortal -epicusername=Terzas -epicuserid=5cead39bd0b94af19743158f6e6ac9ba -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 10 (22H2) [10.0.19045.2965] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|11th Gen Intel(R) Core(TM) i7-11700K @ 3.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="b84f359243533104802a48a1f0b56210"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.207019
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-1FF82BB746FCF743282B658E48ED6AEB
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading IOS ini files took 0.02 seconds
+LogConfig: Display: Loading Mac ini files took 0.02 seconds
+LogConfig: Display: Loading Android ini files took 0.02 seconds
+LogConfig: Display: Loading Unix ini files took 0.03 seconds
+LogConfig: Display: Loading TVOS ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.03 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.03 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.03 seconds
+LogConfig: Display: Loading Linux ini files took 0.03 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin Landmass
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin Water
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Landmass/Content/' mounted to '/Landmass/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/Water/Content/' mounted to '/Water/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 10 (22H2) [10.0.19045.2965] (), CPU: 11th Gen Intel(R) Core(TM) i7-11700K @ 3.60GHz, GPU: NVIDIA GeForce RTX 3060 Ti
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername=Terzas -epicuserid=5cead39bd0b94af19743158f6e6ac9ba -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2023.06.14-08.14.36:655][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2023.06.14-08.14.36:655][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2023.06.14-08.14.36:655][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2023.06.14-08.14.36:655][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2023.06.14-08.14.36:655][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2023.06.14-08.14.36:655][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2023.06.14-08.14.36:655][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2023.06.14-08.14.36:655][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2023.06.14-08.14.36:655][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2023.06.14-08.14.36:655][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2023.06.14-08.14.36:655][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2023.06.14-08.14.36:655][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2023.06.14-08.14.36:655][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2023.06.14-08.14.36:655][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2023.06.14-08.14.36:655][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2023.06.14-08.14.36:655][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2023.06.14-08.14.36:655][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2023.06.14-08.14.36:655][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2023.06.14-08.14.36:655][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2023.06.14-08.14.36:656][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2023.06.14-08.14.36:658][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2023.06.14-08.14.36:658][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2023.06.14-08.14.36:658][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2023.06.14-08.14.36:658][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2023.06.14-08.14.36:658][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2023.06.14-08.14.36:658][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2023.06.14-08.14.36:659][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2023.06.14-08.14.36:659][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2023.06.14-08.14.36:659][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2023.06.14-08.14.36:659][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2023.06.14-08.14.36:659][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2023.06.14-08.14.36:683][  0]LogD3D12RHI: Aftermath initialized
+[2023.06.14-08.14.36:683][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2023.06.14-08.14.36:865][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce RTX 3060 Ti (Max supported Feature Level 12_1, shader model 6.6)
+[2023.06.14-08.14.36:865][  0]LogD3D12RHI: Adapter has 8038MB of dedicated video memory, 0MB of dedicated system memory, and 16318MB of shared system memory, 2 output[s]
+[2023.06.14-08.14.36:869][  0]LogD3D12RHI: Found D3D12 adapter 1: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2023.06.14-08.14.36:869][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 16318MB of shared system memory, 0 output[s]
+[2023.06.14-08.14.36:870][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2023.06.14-08.14.36:870][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.06.14-08.14.36:870][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2023.06.14-08.14.36:870][  0]LogHAL: Display: Platform has ~ 32 GB [34222788608 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.06.14-08.14.36:870][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2023.06.14-08.14.36:870][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2023.06.14-08.14.36:870][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.06.14-08.14.36:870][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2023.06.14-08.14.36:870][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UNREAL/Long_Way_Home/Saved/Config/WindowsEditor/Editor.ini]
+[2023.06.14-08.14.36:870][  0]LogInit: Computer: DESKTOP-J2EVNHL
+[2023.06.14-08.14.36:870][  0]LogInit: User: terza
+[2023.06.14-08.14.36:870][  0]LogInit: CPU Page size=4096, Cores=8
+[2023.06.14-08.14.36:870][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.06.14-08.14.36:871][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2023.06.14-08.14.36:871][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2023.06.14-08.14.36:871][  0]LogMemory: Process Physical Memory: 283.16 MB used, 294.59 MB peak
+[2023.06.14-08.14.36:871][  0]LogMemory: Process Virtual Memory: 249.11 MB used, 249.11 MB peak
+[2023.06.14-08.14.36:871][  0]LogMemory: Physical Memory: 10949.78 MB used,  21687.61 MB free, 32637.39 MB total
+[2023.06.14-08.14.36:871][  0]LogMemory: Virtual Memory: 16056.09 MB used,  21445.31 MB free, 37501.39 MB total
+[2023.06.14-08.14.36:871][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2023.06.14-08.14.36:874][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.06.14-08.14.36:883][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2023.06.14-08.14.36:884][  0]LogInit: Overriding language with editor language configuration option (en).
+[2023.06.14-08.14.36:884][  0]LogInit: Using OS detected locale (es-ES).
+[2023.06.14-08.14.36:993][  0]LogInit: Setting process to per monitor DPI aware
+[2023.06.14-08.14.37:003][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2023.06.14-08.14.37:003][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - (Keyboard).
+[2023.06.14-08.14.37:003][  0]LogWindowsTextInputMethodSystem:   - Español (España, internacional) - Corrección de entrada táctil (TSF IME).
+[2023.06.14-08.14.37:003][  0]LogWindowsTextInputMethodSystem: Activated input method: Español (España, internacional) - (Keyboard).
+[2023.06.14-08.14.37:013][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.06.14-08.14.37:013][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.06.14-08.14.37:099][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2023.06.14-08.14.37:102][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2023.06.14-08.14.37:102][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2023.06.14-08.14.37:179][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2023.06.14-08.14.37:179][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2023.06.14-08.14.37:179][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2023.06.14-08.14.37:179][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2023.06.14-08.14.37:179][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2023.06.14-08.14.37:179][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2023.06.14-08.14.37:179][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2023.06.14-08.14.37:179][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2023.06.14-08.14.37:179][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2023.06.14-08.14.37:179][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2023.06.14-08.14.37:179][  0]LogD3D12RHI: D3D12 ray tracing tier 1.1 is supported.
+[2023.06.14-08.14.37:179][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2023.06.14-08.14.37:179][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2023.06.14-08.14.37:179][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2023.06.14-08.14.37:179][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2023.06.14-08.14.37:179][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2023.06.14-08.14.37:228][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2023.06.14-08.14.37:232][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2023.06.14-08.14.37:241][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2023.06.14-08.14.37:270][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2023.06.14-08.14.37:270][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2023.06.14-08.14.37:289][  0]LogD3D12RHI:     GPU DeviceId: 0x2489 (for the marketing name, search the web for "GPU Device Id")
+[2023.06.14-08.14.37:289][  0]LogWindows: Attached monitors:
+[2023.06.14-08.14.37:289][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1040), device: '\\.\DISPLAY1' [PRIMARY]
+[2023.06.14-08.14.37:289][  0]LogWindows:     resolution: 1920x1080, work area: (-1920, 0) -> (0, 1040), device: '\\.\DISPLAY2'
+[2023.06.14-08.14.37:289][  0]LogWindows: Found 2 attached monitors.
+[2023.06.14-08.14.37:289][  0]LogWindows: EnumDisplayDevices:
+[2023.06.14-08.14.37:289][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060 Ti' (P:1 D:1), name: '\\.\DISPLAY1'
+[2023.06.14-08.14.37:289][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:1), name: '\\.\DISPLAY2'
+[2023.06.14-08.14.37:289][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0), name: '\\.\DISPLAY3'
+[2023.06.14-08.14.37:289][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0), name: '\\.\DISPLAY4'
+[2023.06.14-08.14.37:289][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.06.14-08.14.37:289][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Ti
+[2023.06.14-08.14.37:289][  0]LogD3D12RHI:   Driver Version: 531.41 (internal:31.0.15.3141, unified:531.41)
+[2023.06.14-08.14.37:289][  0]LogD3D12RHI:      Driver Date: 3-16-2023
+[2023.06.14-08.14.37:289][  0]LogRHI: Texture pool is 4580 MB (70% of 6543 MB)
+[2023.06.14-08.14.37:289][  0]LogD3D12RHI: Async texture creation enabled
+[2023.06.14-08.14.37:289][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2023.06.14-08.14.37:298][  0]LogRHI: GeForceNow SDK initialized: 0
+[2023.06.14-08.14.37:302][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/UNREAL/Long_Way_Home/Long_Way_Home.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/UNREAL/Long_Way_Home/Intermediate/TurnkeyReport_0.log" -log="D:/UNREAL/Long_Way_Home/Intermediate/TurnkeyLog_0.log" -project="D:/UNREAL/Long_Way_Home/Long_Way_Home.uproject"  -platform=all'
+[2023.06.14-08.14.37:302][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/UNREAL/Long_Way_Home/Long_Way_Home.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/UNREAL/Long_Way_Home/Intermediate/TurnkeyReport_0.log" -log="D:/UNREAL/Long_Way_Home/Intermediate/TurnkeyLog_0.log" -project="D:/UNREAL/Long_Way_Home/Long_Way_Home.uproject"  -platform=all" ]
+[2023.06.14-08.14.37:317][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2023.06.14-08.14.37:321][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2023.06.14-08.14.37:321][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2023.06.14-08.14.37:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.06.14-08.14.37:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.06.14-08.14.37:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.06.14-08.14.37:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.06.14-08.14.37:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.06.14-08.14.37:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.06.14-08.14.37:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.06.14-08.14.37:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.06.14-08.14.37:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.06.14-08.14.37:326][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.06.14-08.14.37:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2023.06.14-08.14.37:339][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2023.06.14-08.14.37:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.06.14-08.14.37:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.06.14-08.14.37:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.06.14-08.14.37:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2023.06.14-08.14.37:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.06.14-08.14.37:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.06.14-08.14.37:346][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2023.06.14-08.14.37:346][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2023.06.14-08.14.37:346][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2023.06.14-08.14.37:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.06.14-08.14.37:348][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.06.14-08.14.37:351][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.06.14-08.14.37:351][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2023.06.14-08.14.37:351][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.06.14-08.14.37:351][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.06.14-08.14.37:351][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2023.06.14-08.14.37:355][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.06.14-08.14.37:357][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2023.06.14-08.14.37:357][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2023.06.14-08.14.37:357][  0]LogTargetPlatformManager:   ADPCM
+[2023.06.14-08.14.37:357][  0]LogTargetPlatformManager:   PCM
+[2023.06.14-08.14.37:359][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2023.06.14-08.14.37:359][  0]LogTargetPlatformManager:   BINKA
+[2023.06.14-08.14.37:359][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2023.06.14-08.14.37:359][  0]LogTargetPlatformManager:   OGG
+[2023.06.14-08.14.37:359][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2023.06.14-08.14.37:359][  0]LogTargetPlatformManager:   OPUS
+[2023.06.14-08.14.37:387][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2023.06.14-08.14.37:390][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2023.06.14-08.14.37:390][  0]LogTargetPlatformManager:   SF_METAL
+[2023.06.14-08.14.37:390][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2023.06.14-08.14.37:390][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2023.06.14-08.14.37:390][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2023.06.14-08.14.37:390][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2023.06.14-08.14.37:390][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2023.06.14-08.14.37:390][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2023.06.14-08.14.37:390][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2023.06.14-08.14.37:390][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2023.06.14-08.14.37:390][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2023.06.14-08.14.37:390][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2023.06.14-08.14.37:390][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2023.06.14-08.14.37:390][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2023.06.14-08.14.37:390][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2023.06.14-08.14.37:390][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2023.06.14-08.14.37:392][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2023.06.14-08.14.37:392][  0]LogTargetPlatformManager:   VVM_1_0
+[2023.06.14-08.14.37:392][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2023.06.14-08.14.37:392][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2023.06.14-08.14.37:392][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2023.06.14-08.14.37:392][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2023.06.14-08.14.37:392][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2023.06.14-08.14.37:392][  0]LogRendererCore: Ray tracing is enabled for the editor. Reason: r.RayTracing=1.
+[2023.06.14-08.14.37:393][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/UNREAL/Long_Way_Home/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2023.06.14-08.14.37:403][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.06.14-08.14.37:403][  0]LogShaderCompilers: Display: Compiling shader autogen file: D:/UNREAL/Long_Way_Home/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2023.06.14-08.14.37:406][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2023.06.14-08.14.37:408][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UNREAL/Long_Way_Home/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.06.14-08.14.37:408][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2023.06.14-08.14.37:408][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UNREAL/Long_Way_Home/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.14-08.14.37:408][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2023.06.14-08.14.37:423][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2023.06.14-08.14.37:423][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.06.14-08.14.37:423][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2023.06.14-08.14.37:428][  0]LogDerivedDataCache: Speed tests for C:/Users/terza/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2023.06.14-08.14.37:428][  0]LogDerivedDataCache: Display: Performance to C:/Users/terza/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1629.89MBs, RandomWriteSpeed=211.24MBs. Assigned SpeedClass 'Local'
+[2023.06.14-08.14.37:429][  0]LogDerivedDataCache: Using Local data cache path C:/Users/terza/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.06.14-08.14.37:429][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.06.14-08.14.37:429][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2023.06.14-08.14.37:434][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2023.06.14-08.14.37:434][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2023.06.14-08.14.37:434][  0]LogShaderCompilers: Guid format shader working directory is 22 characters bigger than the processId version (D:/UNREAL/Long_Way_Home/Intermediate/Shaders/WorkingDirectory/14440/).
+[2023.06.14-08.14.37:434][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/terza/AppData/Local/Temp/UnrealShaderWorkingDir/CBC0B6CD44C8654BBAE5129ED9D12295/'.
+[2023.06.14-08.14.37:434][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.06.14-08.14.37:434][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 8 workers.
+[2023.06.14-08.14.38:986][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2023.06.14-08.14.38:986][  0]LogSlate: Using FreeType 2.10.0
+[2023.06.14-08.14.38:987][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.06.14-08.14.39:012][  0]LogAssetRegistry: FAssetRegistry took 0.0084 seconds to start up
+[2023.06.14-08.14.39:017][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2023.06.14-08.14.39:145][  0]LogAssetRegistry: Error: Package D:/UNREAL/Long_Way_Home/Content/BluePrints/ShootnReload.uasset is too new. Engine Version: 1004  Package Version: 1008
+[2023.06.14-08.14.39:145][  0]LogSerialization: UsePackageTrailer: 'false'
+[2023.06.14-08.14.39:145][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2023.06.14-08.14.39:304][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2023.06.14-08.14.39:304][  0]LogDeviceProfileManager: Active device profile: [0000074384A58180][0000074384D50000 50] WindowsEditor
+[2023.06.14-08.14.39:304][  0]LogDeviceProfileManager: Profiles: [0000074384A57C40][0000074384D52800 50] Windows, [0000074384A58180][0000074384D50000 50] WindowsEditor, [0000074384A55780][0000074384D55000 50] WindowsServer, [0000074384A540C0][000007437D8D2800 50] WindowsClient, [0000074384A54B40][0000074384D57800 50] IOS, [0000074384A53100][000007437D8D0000 50] iPadAir2, [0000074384A56E40][0000074384D72800 50] IPadPro, [0000074384A56900][0000074384D70000 50] iPadAir3, [0000074384A57000][0000074384D75000 50] iPadAir4, [0000074384A54980][000007437D83C800 50] iPadMini4, [0000074384A56C80][0000074384D7C800 50] iPadMini5, [0000074384A58500][0000074384D5C800 50] iPadMini6, [0000074384A5B7C0][0000074384D92800 50] iPhone6S, [0000074384A5BB40][0000074384D95000 50] iPhone7, [0000074384A5B440][0000074384D97800 50] iPodTouch7, [0000074384A54280][0000074384D7A000 50] iPhone6SPlus, [0000074384A58C00][0000074384D9C800 50] iPhone7Plus, [0000074384A5B600][000007436BAEA000 50] iPhoneSE, [0000074384A5B980][0000074384D77800 50] iPhone8, [0000074384A56AC0][000007437D8D5000 50] iPhone8Plus, [0000074384A57380][0000074384D9A000 50] iPhoneX, [0000074384A52F40][0000074384DB2800 50] iPhoneXS, [0000074384A59D80][0000074384DB0000 50] iPhoneXSMax, [0000074384A58880][0000074384DBA000 50] iPhoneXR, [0000074384A57700][0000074384D90000 50] iPhone11, [0000074384A532C0][0000074384D5A000 50] iPhone11Pro, [0000074384A5A800][0000074384DB7800 50] iPhone11ProMax, [0000074384A56740][0000074384DC2800 50] iPhoneSE2, [0000074384A57FC0][0000074384DC0000 50] iPhone12Mini, [0000074384A547C0][0000074384DCA000 50] iPhone12, [0000074384A5AB80][0000074384DB5000 50] iPhone12Pro, [0000074384A59BC0][0000074384DC5000 50] iPhone12ProMax, [0000074384A56040][0000074384DC7800 50] iPhone13Mini, [0000074384A571C0][0000074384DD2800 50] iPhone13, [0000074384A5A480][0000074384DD0000 50] iPhone13Pro, [0000074384A53D40][0000074384DDA000 50] iPhone13ProMax, [0000074384A555C0][0000074384DCC800 50] iPadPro105, [0000074384A57A80][000007437D877800 50] iPadPro129, [0000074384A5A9C0][0000074384DD7800 50] iPadPro97, [0000074384A59840][0000074384DE2800 50] iPadPro2_129, [0000074384A58DC0][0000074384DE0000 50] iPad5, [0000074384A59F40][0000074384DEA000 50] iPad6, [0000074384A59140][0000074384DD5000 50] iPad7, [0000074384A5AD40][0000074384DE5000 50] iPad8, [0000074384A54440][0000074384DE7800 50] iPad9, [0000074384A59680][0000074384DF2800 50] iPadPro11, [0000074384A58A40][0000074384DF0000 50] iPadPro2_11, [0000074384A55CC0][0000074384DFA000 50] iPadPro3_11, [0000074384A58F80][0000074384DEC800 50] iPadPro3_129, [0000074384A55080][0000074384DBC800 50] iPadPro4_129, [0000074384A5A100][0000074384DF7800 50] iPadPro5_129, [0000074384A55400][0000074384E02800 50] AppleTV, [0000074384A54EC0][0000074384E00000 50] AppleTV4K, [0000074384A578C0][0000074384E0A000 50] TVOS, [0000074384A5D740][0000074384E12800 50] Mac, [0000074384A5DAC0][0000074384E10000 50] MacEditor, [0000074384A55940][0000074384E15000 50] MacClient, [0000074384A54D00][0000074384E0C800 50] MacServer, [0000074384A5DE40][0000074384DDC800 50] Linux, [0000074384A5E1C0][0000074384E1A000 50] LinuxEditor, [0000074384A5CE80][0000074384DF5000 50] LinuxArm64Editor, [0000074384A5B0C0][0000074384DFC800 50] LinuxArm64, [0000074384A539C0][0000074384E17800 50] LinuxClient, [0000074384A5E540][0000074384E22800 50] LinuxArm64Client, [0000074384A5CCC0][0000074384E20000 50] LinuxServer, [0000074384A59300][0000074384E2A000 50] LinuxArm64Server, [0000074384A54600][0000074384E07800 50] Android, [0000074384A5D3C0][0000074384E25000 50] Android_Preview_OpenGL, [0000074384A5AF00][0000074384E27800 50] Android_Preview_Vulkan, [0000074384A5D200][0000074384E32800 50] Android_Low, [0000074384A5A2C0][0000074384E30000 50] Android_Mid, [0000074384A56580][0000074384E3A000 50] Android_High, [0000074384A56200][0000074384E2C800 50] Android_Default, [0000074384A5EA80][0000074384E1C800 50] Android_Adreno4xx, [0000074384A5E000][0000074384E37800 50] Android_Adreno5xx_Low, [0000074384A5C780][0000074384E42800 50] Android_Adreno5xx, [0000074384A5C240][0000074384E40000 50] Android_Adreno6xx, [0000074384A57540][0000074384E4A000 50] Android_Adreno6xx_Vulkan, [0000074384A55E80][0000074384E35000 50] Android_Adreno7xx, [0000074384A55B00][0000074384E45000 50] Android_Adreno7xx_Vulkan, [0000074384A5D900][0000074384E47800 50] Android_Mali_T6xx, [0000074384A58340][0000074384E52800 50] Android_Mali_T7xx, [0000074384A5E8C0][0000074384E50000 50] Android_Mali_T8xx, [0000074384A5BEC0][0000074384E5A000 50] Android_Mali_G71, [0000074384A563C0][0000074384E4C800 50] Android_Mali_G72, [0000074384A586C0][0000074384E05000 50] Android_Mali_G72_Vulkan, [0000074384A5F340][0000074384E57800 50] Android_Mali_G76, [0000074384A53F00][0000074384E62800 50] Android_Mali_G76_Vulkan, [0000074384A59A00][0000074384E60000 50] Android_Mali_G77, [0000074384A53B80][0000074384E6A000 50] Android_Mali_G77_Vulkan, [0000074384A5F500][0000074384E55000 50] Android_Mali_G78, [0000074384A5C940][0000074384E65000 50] Android_Mali_G78_Vulkan, [0000074384A5F880][0000074384E67800 50] Android_Mali_G710, [0000074384A5DC80][0000074384E72800 50] Android_Mali_G710_Vulkan, [0000074384A5FA40][0000074384E70000 50] Android_Xclipse_920, [0000074384A5FC00][0000074384E7A000 50] Android_Xclipse_920_Vulkan, [0000074384A5E700][0000074384E6C800 50] Android_Vulkan_SM5, [0000074384E82300][0000074384E3C800 50] Android_PowerVR_G6xxx, [0000074384E80540][0000074384E77800 50] Android_PowerVR_GT7xxx, [0000074384E81A40][0000074384E92800 50] Android_PowerVR_GE8xxx, [0000074384E80E00][0000074384E90000 50] Android_PowerVR_GM9xxx, [0000074384E82140][0000074384E9A000 50] Android_PowerVR_GM9xxx_Vulkan, [0000074384E80FC0][0000074384E75000 50] Android_TegraK1, [0000074384E81DC0][0000074384E95000 50] Android_Unknown_Vulkan, [0000074384E81340][0000074384E97800 50] Oculus_Quest, [0000074384E83640][0000074384EA2800 50] Oculus_Quest2, [0000074384E82A00][0000074384EA0000 50] HoloLens, 
+[2023.06.14-08.14.39:304][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2023.06.14-08.14.39:306][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2023.06.14-08.14.39:306][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2023.06.14-08.14.39:306][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.06.14-08.14.39:306][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v20_clang-13.0.1-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2023.06.14-08.14.39:306][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="Platform_ValidHostPrerequisites")
+[2023.06.14-08.14.39:320][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2023.06.14-08.14.39:498][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.06.14-08.14.39:498][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.06.14-08.14.39:498][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.06.14-08.14.39:498][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.06.14-08.14.39:498][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.06.14-08.14.39:508][  0]LogNetVersion: Long_Way_Home 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1452044272)
+[2023.06.14-08.14.39:628][  0]LogSlate: Border
+[2023.06.14-08.14.39:628][  0]LogSlate: BreadcrumbButton
+[2023.06.14-08.14.39:628][  0]LogSlate: Default
+[2023.06.14-08.14.39:628][  0]LogSlate: Icons.Save
+[2023.06.14-08.14.39:628][  0]LogSlate: Icons.Toolbar.Settings
+[2023.06.14-08.14.39:628][  0]LogSlate: ListView
+[2023.06.14-08.14.39:628][  0]LogSlate: SoftwareCursor_CardinalCross
+[2023.06.14-08.14.39:628][  0]LogSlate: SoftwareCursor_Grab
+[2023.06.14-08.14.39:628][  0]LogSlate: TableView.DarkRow
+[2023.06.14-08.14.39:628][  0]LogSlate: TableView.Row
+[2023.06.14-08.14.39:628][  0]LogSlate: TreeView
+[2023.06.14-08.14.39:841][  0]SourceControl: Source control is disabled
+[2023.06.14-08.14.39:876][  0]SourceControl: Source control is disabled
+[2023.06.14-08.14.39:876][  0]SourceControl: Source control is disabled
+[2023.06.14-08.14.40:067][  0]LogUObjectArray: 20823 objects as part of root set at end of initial load.
+[2023.06.14-08.14.40:067][  0]LogUObjectAllocator: 5780872 out of 0 bytes used by permanent object pool.
+[2023.06.14-08.14.40:067][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.06.14-08.14.40:436][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: CF453D484C2DBF2AB9C3D0B501D746CB | Instance: A6E4034E4392FE087D0892840122C999 (DESKTOP-J2EVNHL-14440).
+[2023.06.14-08.14.40:459][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.06.14-08.14.40:462][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.06.14-08.14.40:470][  0]LogPython: Using Python 3.9.7
+[2023.06.14-08.14.41:234][  0]SourceControl: Source control is disabled
+[2023.06.14-08.14.41:236][  0]SourceControl: Source control is disabled
+[2023.06.14-08.14.41:239][  0]SourceControl: Source control is disabled
+[2023.06.14-08.14.41:251][  0]LogUProjectInfo: Found projects:
+[2023.06.14-08.14.41:313][  0]LogOpenImageDenoise: OIDN starting up
+[2023.06.14-08.14.41:345][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.06.14-08.14.41:363][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.14-08.14.41:363][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.06.14-08.14.41:423][  0]LogCollectionManager: Loaded 0 collections in 0.001103 seconds
+[2023.06.14-08.14.41:476][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/Long_Way_Home/Saved/Collections/' took 0.00s
+[2023.06.14-08.14.41:476][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/Long_Way_Home/Content/Developers/terza/Collections/' took 0.00s
+[2023.06.14-08.14.41:476][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/Long_Way_Home/Content/Collections/' took 0.00s
+[2023.06.14-08.14.41:690][  0]LogEngine: Initializing Engine...
+[2023.06.14-08.14.41:695][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2023.06.14-08.14.41:709][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2023.06.14-08.14.42:140][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.06.14-08.14.42:140][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.14-08.14.42:152][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.14-08.14.42:163][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.06.14-08.14.42:164][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.06.14-08.14.42:173][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.06.14-08.14.42:174][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.06.14-08.14.42:174][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2023.06.14-08.14.42:174][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.06.14-08.14.42:174][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.06.14-08.14.42:174][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.14-08.14.42:174][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.14-08.14.42:174][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.14-08.14.42:174][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.14-08.14.42:174][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.14-08.14.42:174][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.14-08.14.42:174][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.14-08.14.42:174][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.14-08.14.42:174][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.14-08.14.42:174][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.14-08.14.42:174][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.14-08.14.42:180][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.14-08.14.42:201][  0]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (G435 Wireless Gaming Headset)
+[2023.06.14-08.14.42:201][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.14-08.14.42:202][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.14-08.14.42:202][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.14-08.14.42:203][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2023.06.14-08.14.42:203][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.06.14-08.14.42:203][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.06.14-08.14.42:203][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2023.06.14-08.14.42:203][  0]LogInit: FAudioDevice initialized.
+[2023.06.14-08.14.42:204][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.06.14-08.14.42:204][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.06.14-08.14.42:204][  0]LogInit: Texture streaming: Enabled
+[2023.06.14-08.14.42:219][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2023.06.14-08.14.42:223][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.06.14-08.14.42:235][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2023.06.14-08.14.42:239][  0]LogLiveCoding: Display: Starting LiveCoding
+[2023.06.14-08.14.42:240][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2023.06.14-08.14.43:641][  0]LogLiveCoding: Display: First instance in process group "UE_Long_Way_Home_0x273b9cd8", spawning console
+[2023.06.14-08.14.43:641][  0]LogLiveCoding: Display: Waiting for server
+[2023.06.14-08.14.43:641][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2023.06.14-08.14.43:660][  0]LogInit: Transaction tracking system initialized
+[2023.06.14-08.14.43:693][  0]BlueprintLog: New page: Editor Load
+[2023.06.14-08.14.43:773][  0]LocalizationService: Localization service is disabled
+[2023.06.14-08.14.43:793][  0]TimingProfiler: Initialize
+[2023.06.14-08.14.43:793][  0]TimingProfiler: OnSessionChanged
+[2023.06.14-08.14.43:793][  0]LoadingProfiler: Initialize
+[2023.06.14-08.14.43:793][  0]LoadingProfiler: OnSessionChanged
+[2023.06.14-08.14.43:793][  0]NetworkingProfiler: Initialize
+[2023.06.14-08.14.43:793][  0]NetworkingProfiler: OnSessionChanged
+[2023.06.14-08.14.43:793][  0]MemoryProfiler: Initialize
+[2023.06.14-08.14.43:793][  0]MemoryProfiler: OnSessionChanged
+[2023.06.14-08.14.44:288][  0]LogFileCache: Scanning file cache for directory 'D:/UNREAL/Long_Way_Home/Content/' took 0.01s
+[2023.06.14-08.14.44:288][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2023.06.14-08.14.44:427][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.06.14-08.14.44:429][  0]SourceControl: Source control is disabled
+[2023.06.14-08.14.44:429][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.649
+[2023.06.14-08.14.44:429][  0]Cmd: MAP LOAD FILE="D:/UNREAL/Long_Way_Home/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.14-08.14.44:458][  0]LightingResults: New page: Lighting Build
+[2023.06.14-08.14.44:461][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.06.14-08.14.44:461][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.14-08.14.44:461][  0]MapCheck: New page: Map Check
+[2023.06.14-08.14.44:462][  0]LightingResults: New page: Lighting Build
+[2023.06.14-08.14.44:466][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.14-08.14.44:468][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.06.14-08.14.47:250][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2023.06.14-08.14.47:253][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.14-08.14.47:254][  0]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.06.14-08.14.47:261][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.14-08.14.47:261][  0]LogWorldPartition: UWorldPartition::Initialize(IsEditor=1, IsGame=0, IsCooking=0)
+[2023.06.14-08.14.47:495][  0]LogLinker: Warning: [AssetLog] D:\UNREAL\Long_Way_Home\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\0\YF\ZG57RZ96HFC313BX80436Z.uasset: Failed to load '/Game/Modelos/Decoracion/CombatShip/Nave': Can't find file.
+[2023.06.14-08.14.47:495][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Modelos/Decoracion/CombatShip/Nave'
+[2023.06.14-08.14.48:160][  0]LogLinker: Warning: [AssetLog] D:\UNREAL\Long_Way_Home\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\7\K0\Z8VJLHMCCZJMIYWIS0IA0P.uasset: Failed to load '/Game/Modelos/Decoracion/CombatShip/CombatShip': Can't find file.
+[2023.06.14-08.14.48:160][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Modelos/Decoracion/CombatShip/CombatShip'
+[2023.06.14-08.14.48:503][  0]LogLinker: Warning: [AssetLog] D:\UNREAL\Long_Way_Home\Content\__ExternalActors__\FirstPerson\Maps\FirstPersonMap\C\ZU\PDQ0AB8RLNMVID876FD49G.uasset: Failed to load '/Game/Modelos/Decoracion/CombatShip/TT_checker_4096x4096_UV_GRID': Can't find file.
+[2023.06.14-08.14.48:503][  0]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Modelos/Decoracion/CombatShip/TT_checker_4096x4096_UV_GRID'
+[2023.06.14-08.14.48:630][  0]LogWorldPartition: Display: WorldPartition initialize took 1.36 sec
+[2023.06.14-08.14.48:641][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.14-08.14.49:447][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.06.14-08.14.49:466][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.14-08.14.49:466][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,156ms to complete.
+[2023.06.14-08.14.49:466][  0]LogFileHelpers: Loading map 'FirstPersonMap' took 5.037
+[2023.06.14-08.14.49:474][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.694
+[2023.06.14-08.14.49:474][  0]LogShaderCompilers: Display: ================================================
+[2023.06.14-08.14.49:474][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.14-08.14.49:474][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2023.06.14-08.14.49:474][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2023.06.14-08.14.49:474][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.00%
+[2023.06.14-08.14.49:474][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.14-08.14.49:474][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.06.14-08.14.49:474][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.06.14-08.14.49:474][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.06.14-08.14.49:474][  0]LogShaderCompilers: Display: ================================================
+[2023.06.14-08.14.49:587][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.06.14-08.14.49:588][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.06.14-08.14.49:588][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.06.14-08.14.49:588][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.06.14-08.14.49:588][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.06.14-08.14.49:588][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.06.14-08.14.49:588][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.06.14-08.14.49:588][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.06.14-08.14.49:588][  0]LogSlate: The tab "TopLeftModeTab" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2023.06.14-08.14.49:611][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.14-08.14.49:616][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.14-08.14.49:620][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.14-08.14.49:623][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.14-08.14.49:780][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2023.06.14-08.14.49:780][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.14-08.14.49:788][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2023.06.14-08.14.49:788][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.14-08.14.49:795][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2023.06.14-08.14.49:795][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.14-08.14.49:801][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2023.06.14-08.14.49:801][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.14-08.14.49:814][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2023.06.14-08.14.49:814][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.14-08.14.49:821][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2023.06.14-08.14.49:821][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.14-08.14.49:827][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2023.06.14-08.14.49:827][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.14-08.14.49:833][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2023.06.14-08.14.49:833][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.14-08.14.49:839][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2023.06.14-08.14.49:839][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.14-08.14.49:844][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2023.06.14-08.14.49:844][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2023.06.14-08.14.49:845][  0]LogFeaturePack: Error: Error in Feature pack C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2023.06.14-08.14.50:342][  0]LogCEFBrowser: CEF GPU acceleration enabled
+[2023.06.14-08.14.50:697][  0]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.06.14-08.14.50:699][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.06.14-08.14.50:706][  0]LogSlate: Took 0.004868 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.06.14-08.14.50:710][  0]LogSlate: Took 0.003920 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.06.14-08.14.50:763][  0]LogViewport: Scene viewport resized to 1161x902, mode Windowed.
+[2023.06.14-08.14.51:109][  0]LogD3D12RHI: Creating RTPSO with 105 shaders (0 cached, 105 new) took 203.10 ms. Compile time 189.32 ms, link time 13.64 ms.
+[2023.06.14-08.14.51:159][  0]LogD3D12RHI: Creating RTPSO with 9 shaders (0 cached, 9 new) took 28.61 ms. Compile time 17.63 ms, link time 10.92 ms.
+[2023.06.14-08.14.51:238][  0]LogD3D12RHI: Creating RTPSO with 3 shaders (0 cached, 3 new) took 108.71 ms. Compile time 6.31 ms, link time 102.36 ms.
+[2023.06.14-08.14.51:246][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2023.06.14-08.14.51:254][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2023.06.14-08.14.51:256][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2023.06.14-08.14.51:259][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2023.06.14-08.14.51:260][  0]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2023.06.14-08.14.51:265][  0]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2023.06.14-08.14.51:506][  0]LogStall: Startup...
+[2023.06.14-08.14.51:507][  0]LogStall: Startup complete.
+[2023.06.14-08.14.51:515][  0]LogLoad: (Engine Initialization) Total time: 15.73 seconds
+[2023.06.14-08.14.51:515][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.06.14-08.14.51:530][  0]LogAssetRegistry: Asset discovery search completed in 12.5190 seconds
+[2023.06.14-08.14.51:534][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2023.06.14-08.14.51:536][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.06.14-08.14.51:609][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/UNREAL/Long_Way_Home/Content/' took 0.08s
+[2023.06.14-08.14.51:639][  2]LogD3D12RHI: Creating RTPSO with 116 shaders (0 cached, 11 new) took 12.12 ms. Compile time 10.04 ms, link time 1.92 ms.
+[2023.06.14-08.14.51:943][ 19]LogD3D12RHI: Creating RT View Heap with 250000 entries
+[2023.06.14-08.14.51:943][ 19]LogD3D12RHI: Creating RT Sampler Heap with 2048 entries
+[2023.06.14-08.14.59:566][778]LogSlate: Took 0.004740 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.06.14-08.14.59:575][778]LogSlate: Took 0.004603 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.14-08.15.11:414][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.06.14-08.15.12:461][ 13]LogLinker: Warning: [AssetLog] D:\UNREAL\Long_Way_Home\Content\Megascans\Surfaces\Old_Damaged_Wood_vmhkaj2g\Tronco.uasset: Failed to load '/Game/Megascans/Surfaces/Old_Damaged_Wood_vmhkaj2g/T_Old_Damaged_Wood_vmhkaj2g_8K_D': Can't find file.
+[2023.06.14-08.15.12:461][ 13]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Old_Damaged_Wood_vmhkaj2g/T_Old_Damaged_Wood_vmhkaj2g_8K_D'
+[2023.06.14-08.15.12:461][ 13]LogLinker: Warning: [AssetLog] D:\UNREAL\Long_Way_Home\Content\Megascans\Surfaces\Old_Damaged_Wood_vmhkaj2g\Tronco.uasset: Failed to load '/Game/Megascans/Surfaces/Old_Damaged_Wood_vmhkaj2g/T_Old_Damaged_Wood_vmhkaj2g_8K_N': Can't find file.
+[2023.06.14-08.15.12:461][ 13]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Old_Damaged_Wood_vmhkaj2g/T_Old_Damaged_Wood_vmhkaj2g_8K_N'
+[2023.06.14-08.15.12:461][ 13]LogLinker: Warning: [AssetLog] D:\UNREAL\Long_Way_Home\Content\Megascans\Surfaces\Old_Damaged_Wood_vmhkaj2g\Tronco.uasset: Failed to load '/Game/Megascans/Surfaces/Old_Damaged_Wood_vmhkaj2g/T_OldDamagedWood_vmhkaj2g_8K_ORDp': Can't find file.
+[2023.06.14-08.15.12:461][ 13]LogLinker: Warning: VerifyImport: Failed to load package for import object 'Package /Game/Megascans/Surfaces/Old_Damaged_Wood_vmhkaj2g/T_OldDamagedWood_vmhkaj2g_8K_ORDp'
+[2023.06.14-08.15.12:727][ 13]LogMaterial: Display: Missing cached shadermap for Tronco in PCD3D_SM5, Default, SM5 (DDC key hash: 43EBB3A77EFBC43D51038E6E6B1F5CE88A62D6BB), compiling. 
+[2023.06.14-08.15.12:729][ 13]LogMaterial: Warning: [AssetLog] D:\UNREAL\Long_Way_Home\Content\Megascans\Surfaces\Old_Damaged_Wood_vmhkaj2g\Tronco.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	Function Blend_Overlay: (Node If) If input A must be of type float.
+
+[2023.06.14-08.15.12:788][ 13]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/Persistent_Level.Persistent_Level
+[2023.06.14-08.15.12:788][ 13]Cmd: MAP LOAD FILE="D:/UNREAL/Long_Way_Home/Content/Maps/Persistent_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.06.14-08.15.12:788][ 13]LightingResults: New page: Lighting Build
+[2023.06.14-08.15.12:788][ 13]LoadErrors: New page: Loading map: Persistent_Level.umap
+[2023.06.14-08.15.12:818][ 13]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.14-08.15.12:819][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.14-08.15.12:822][ 13]MapCheck: New page: Map Check
+[2023.06.14-08.15.12:822][ 13]LightingResults: New page: Lighting Build
+[2023.06.14-08.15.12:828][ 13]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.14-08.15.12:831][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.06.14-08.15.12:843][ 13]LogWorld: UWorld::CleanupWorld for Persistent_Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.14-08.15.12:843][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.14-08.15.12:849][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2023.06.14-08.15.12:856][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.06.14-08.15.12:860][ 13]LogAudio: Display: Audio Device (ID: 1) registered with world 'Persistent_Level'.
+[2023.06.14-08.15.12:860][ 13]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.14-08.15.12:860][ 13]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.14-08.15.12:860][ 13]LogAIModule: Creating AISystem for world Persistent_Level
+[2023.06.14-08.15.12:862][ 13]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Escenario_exterior) is flushing async loading
+[2023.06.14-08.15.12:862][ 13]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2023.06.14-08.15.14:401][ 13]LogMaterial: Display: Material /Game/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material.M_MS_Foliage_Material needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2023.06.14-08.15.14:406][ 13]LogMaterial: Display: Missing cached shadermap for M_MS_Foliage_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 3505D8D37D4C3554E8B58A12830623D0E516CE7C), compiling. 
+[2023.06.14-08.15.14:528][ 13]MapCheck: Warning: M_MS_Foliage_Material Material /Game/MSPresets/M_MS_Foliage_Material/M_MS_Foliage_Material.M_MS_Foliage_Material was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2023.06.14-08.15.14:576][ 13]LogMaterial: Display: Material /Game/Modelos/Decoracion/Trees/Textura/Hojas.Hojas needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2023.06.14-08.15.14:580][ 13]LogMaterial: Display: Missing cached shadermap for Hojas in PCD3D_SM5, Default, SM5 (DDC key hash: 294F4B9CFE1DCD9B21DEFD57DE5DE77D9026A8D2), compiling. 
+[2023.06.14-08.15.14:652][ 13]MapCheck: Warning: Hojas Material /Game/Modelos/Decoracion/Trees/Textura/Hojas.Hojas was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2023.06.14-08.15.14:652][ 13]LogMaterial: Display: Material /Game/Megascans/Surfaces/Old_Damaged_Wood_vmhkaj2g/Tronco.Tronco needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2023.06.14-08.15.14:657][ 13]LogMaterial: Display: Missing cached shadermap for Tronco in PCD3D_SM5, Default, SM5 (DDC key hash: D4969663F197B62E096F2EFA177738BE773DE75E), compiling. 
+[2023.06.14-08.15.14:657][ 13]LogMaterial: Warning: [AssetLog] D:\UNREAL\Long_Way_Home\Content\Megascans\Surfaces\Old_Damaged_Wood_vmhkaj2g\Tronco.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	Function Blend_Overlay: (Node If) If input A must be of type float.
+
+[2023.06.14-08.15.14:658][ 13]MapCheck: Warning: Tronco Material /Game/Megascans/Surfaces/Old_Damaged_Wood_vmhkaj2g/Tronco.Tronco was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2023.06.14-08.15.14:662][ 13]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/CuevaTutorial) is flushing async loading
+[2023.06.14-08.15.14:732][ 13]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.14-08.15.14:740][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2023.06.14-08.15.14:751][ 13]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.14-08.15.14:751][ 13]MapCheck: Map check complete: 0 Error(s), 3 Warning(s), took 0,099ms to complete.
+[2023.06.14-08.15.14:770][ 13]LogFileHelpers: Loading map 'Persistent_Level' took 1.981
+[2023.06.14-08.15.15:030][ 14]LogD3D12RHI: Creating RTPSO with 126 shaders (0 cached, 10 new) took 23.91 ms. Compile time 21.82 ms, link time 1.91 ms.
+[2023.06.14-08.15.19:740][186]LogSlate: Window 'Message Log' being destroyed
+[2023.06.14-08.15.19:751][186]LogSlate: Window 'Message Log' being destroyed
+[2023.06.14-08.15.22:488][312]LogD3D12RHI: Creating RTPSO with 127 shaders (0 cached, 1 new) took 16.03 ms. Compile time 12.83 ms, link time 2.90 ms.
+[2023.06.14-08.16.19:386][927]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.14-08.16.19:398][927]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.14-08.16.19:405][928]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.14-08.16.27:276][786]LogContentBrowser: Attempting asset rename: NewFolder -> ArbolInterior
+[2023.06.14-08.16.27:276][786]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.14-08.16.33:192][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Decoracion/Trees/Hojas_Fusionadas" FILE="D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/Hojas_Fusionadas.uasset" SILENT=true
+[2023.06.14-08.16.33:196][347]LogPackageLocalizationCache: Processed 32 localized package path(s) for 1 prioritized culture(s) in 0.003364 seconds
+[2023.06.14-08.16.33:226][347]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/Hojas_Fusionadas
+[2023.06.14-08.16.33:227][347]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/Hojas_Fusionadas22DF856E426B1CFC80E1F9A54187B3DA.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/Hojas_Fusionadas.uasset'
+[2023.06.14-08.16.33:238][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Decoracion/Trees/ArbolDefinitivo" FILE="D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolDefinitivo.uasset" SILENT=true
+[2023.06.14-08.16.33:288][347]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/ArbolDefinitivo
+[2023.06.14-08.16.33:288][347]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/ArbolDefinitivo298432D6434ABFD083638B9FC469C111.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolDefinitivo.uasset'
+[2023.06.14-08.16.33:296][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Decoracion/Trees/ArbolDefinitivo_2" FILE="D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolDefinitivo_2.uasset" SILENT=true
+[2023.06.14-08.16.33:349][347]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/ArbolDefinitivo_2
+[2023.06.14-08.16.33:349][347]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/ArbolDefinitivo_2EBD46DEF4AD8CB354A5A41BF086EFC09.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolDefinitivo_2.uasset'
+[2023.06.14-08.16.33:350][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Decoracion/Trees/ArbolInterior/Textura/Hojas" FILE="D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolInterior/Textura/Hojas.uasset" SILENT=true
+[2023.06.14-08.16.33:351][347]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/ArbolInterior/Textura/Hojas
+[2023.06.14-08.16.33:351][347]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/HojasBC4A044B41029CE73A2C11B768FA8D98.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolInterior/Textura/Hojas.uasset'
+[2023.06.14-08.16.33:352][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Decoracion/Trees/ArbolInterior/Textura/Raices" FILE="D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolInterior/Textura/Raices.uasset" SILENT=true
+[2023.06.14-08.16.33:352][347]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/ArbolInterior/Textura/Raices
+[2023.06.14-08.16.33:353][347]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/RaicesA547CB6042E938CBB6210A9974880E2C.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolInterior/Textura/Raices.uasset'
+[2023.06.14-08.16.33:353][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Decoracion/Trees/ArbolInterior/Textura/Hojas_2" FILE="D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolInterior/Textura/Hojas_2.uasset" SILENT=true
+[2023.06.14-08.16.33:354][347]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/ArbolInterior/Textura/Hojas_2
+[2023.06.14-08.16.33:354][347]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/Hojas_2A54082FA40A84FEC5C79B097A025B0EC.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolInterior/Textura/Hojas_2.uasset'
+[2023.06.14-08.16.33:369][347]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/ArbolInterior/Textura/TexturesCom_Branches0039_1_masked_S
+[2023.06.14-08.16.33:369][347]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/TexturesCom_Branches0039_1_maskeD950F9684D7A580BBF9FB585668EAFE0.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolInterior/Textura/TexturesCom_Branches0039_1_masked_S.uasset'
+[2023.06.14-08.16.33:403][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.06.14-08.16.33:409][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.06.14-08.16.33:415][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.06.14-08.16.33:512][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Decoracion/Trees/ArbolInterior/Secuoya_low" FILE="D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolInterior/Secuoya_low.uasset" SILENT=true
+[2023.06.14-08.16.33:517][347]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/ArbolInterior/Secuoya_low
+[2023.06.14-08.16.33:517][347]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/Secuoya_low37F94DAD446B24A4CB33CCA5D7776B6B.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolInterior/Secuoya_low.uasset'
+[2023.06.14-08.16.33:518][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Decoracion/Trees/ArbolInterior/ArbolDefinitivo" FILE="D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolInterior/ArbolDefinitivo.uasset" SILENT=true
+[2023.06.14-08.16.33:571][347]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/ArbolInterior/ArbolDefinitivo
+[2023.06.14-08.16.33:571][347]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/ArbolDefinitivo12F8079D429E26536BE234A5507289C7.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolInterior/ArbolDefinitivo.uasset'
+[2023.06.14-08.16.33:571][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Decoracion/Trees/ArbolDefinitivo" FILE="D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolDefinitivo.uasset" SILENT=true
+[2023.06.14-08.16.33:572][347]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/ArbolDefinitivo
+[2023.06.14-08.16.33:572][347]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/ArbolDefinitivo9511543149B390B8F97876B6C0E5935C.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolDefinitivo.uasset'
+[2023.06.14-08.16.33:625][347]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/ArbolInterior/ArbolDefinitivo_2
+[2023.06.14-08.16.33:625][347]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/ArbolDefinitivo_2C740AE9D470068080BC2078C9595FD6A.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolInterior/ArbolDefinitivo_2.uasset'
+[2023.06.14-08.16.33:625][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Decoracion/Trees/ArbolDefinitivo_2" FILE="D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolDefinitivo_2.uasset" SILENT=true
+[2023.06.14-08.16.33:626][347]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/ArbolDefinitivo_2
+[2023.06.14-08.16.33:626][347]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/ArbolDefinitivo_244B0C38F4C0C1E16FB6C3D898BD3C3DC.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolDefinitivo_2.uasset'
+[2023.06.14-08.16.33:627][347]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/ArbolInterior/ArbolDefinitivo_2_FoliageType
+[2023.06.14-08.16.33:627][347]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/ArbolDefinitivo_2_FoliageType1A12135B418F9B65A2B429B7751AF967.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolInterior/ArbolDefinitivo_2_FoliageType.uasset'
+[2023.06.14-08.16.33:627][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Decoracion/Trees/ArbolDefinitivo_2_FoliageType" FILE="D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolDefinitivo_2_FoliageType.uasset" SILENT=true
+[2023.06.14-08.16.33:628][347]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/ArbolDefinitivo_2_FoliageType
+[2023.06.14-08.16.33:628][347]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/ArbolDefinitivo_2_FoliageType6AA9F38D4029164E810F9482E731C4D5.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolDefinitivo_2_FoliageType.uasset'
+[2023.06.14-08.16.33:629][347]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/ArbolInterior/ArbolDefinitivo_FoliageType
+[2023.06.14-08.16.33:629][347]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/ArbolDefinitivo_FoliageType03E82EDA4D775860ED2A90AA9945C609.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolInterior/ArbolDefinitivo_FoliageType.uasset'
+[2023.06.14-08.16.33:645][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Decoracion/Trees/ArbolDefinitivo_FoliageType" FILE="D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolDefinitivo_FoliageType.uasset" SILENT=true
+[2023.06.14-08.16.33:645][347]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/ArbolDefinitivo_FoliageType
+[2023.06.14-08.16.33:646][347]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/ArbolDefinitivo_FoliageType374913A24B55E99AC21D82B3264BB06F.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolDefinitivo_FoliageType.uasset'
+[2023.06.14-08.16.33:655][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Decoracion/Trees/ArbolInterior/Espirales" FILE="D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolInterior/Espirales.uasset" SILENT=true
+[2023.06.14-08.16.33:687][347]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/ArbolInterior/Espirales
+[2023.06.14-08.16.33:687][347]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/EspiralesA540099542FCF041AE6D93B08085B0D3.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolInterior/Espirales.uasset'
+[2023.06.14-08.16.33:730][347]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/ArbolInterior/Hojas_Fusionadas
+[2023.06.14-08.16.33:730][347]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/Hojas_Fusionadas842362B04F21E7D8737E9899A21AF4AD.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolInterior/Hojas_Fusionadas.uasset'
+[2023.06.14-08.16.33:739][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Modelos/Decoracion/Trees/ArbolInterior/leaves" FILE="D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolInterior/leaves.uasset" SILENT=true
+[2023.06.14-08.16.33:750][347]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/ArbolInterior/leaves
+[2023.06.14-08.16.33:750][347]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/leaves90F5DBC84F1FF6D63C29598C003E0953.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/ArbolInterior/leaves.uasset'
+[2023.06.14-08.16.33:779][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.06.14-08.16.33:786][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.06.14-08.16.33:791][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.06.14-08.16.33:801][347]LogAssetRegistry: Warning: D:/UNREAL/Long_Way_Home/Content/Modelos\Decoracion\Trees\Hojas_Fusionadas.uasset: package was marked as deleted in editor, but has been modified on disk. It will once again be returned from AssetRegistry queries.
+[2023.06.14-08.16.33:806][347]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.14-08.16.33:806][347]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Modelos/Decoracion/Trees/ArbolInterior/ArbolDefinitivo_FoliageType.ArbolDefinitivo_FoliageType
+[2023.06.14-08.16.33:807][347]LogContentValidation: Display: Validating StaticMesh /Game/Modelos/Decoracion/Trees/ArbolInterior/ArbolDefinitivo.ArbolDefinitivo
+[2023.06.14-08.16.33:807][347]LogContentValidation: Display: Validating Material /Game/Modelos/Decoracion/Trees/ArbolInterior/Textura/Hojas.Hojas
+[2023.06.14-08.16.33:807][347]LogContentValidation: Display: Validating ObjectRedirector /Game/Modelos/Decoracion/Trees/ArbolDefinitivo_2.ArbolDefinitivo_2
+[2023.06.14-08.16.33:807][347]LogContentValidation: Display: Validating FoliageType_InstancedStaticMesh /Game/Modelos/Decoracion/Trees/ArbolInterior/ArbolDefinitivo_2_FoliageType.ArbolDefinitivo_2_FoliageType
+[2023.06.14-08.16.33:807][347]LogContentValidation: Display: Validating StaticMesh /Game/Modelos/Decoracion/Trees/ArbolInterior/ArbolDefinitivo_2.ArbolDefinitivo_2
+[2023.06.14-08.16.33:807][347]LogContentValidation: Display: Validating Material /Game/Modelos/Decoracion/Trees/ArbolInterior/Textura/Raices.Raices
+[2023.06.14-08.16.33:807][347]LogContentValidation: Display: Validating ObjectRedirector /Game/Modelos/Decoracion/Trees/ArbolDefinitivo.ArbolDefinitivo
+[2023.06.14-08.16.33:807][347]LogContentValidation: Display: Validating Material /Game/Modelos/Decoracion/Trees/ArbolInterior/Textura/Hojas_2.Hojas_2
+[2023.06.14-08.16.33:807][347]LogContentValidation: Display: Validating Texture2D /Game/Modelos/Decoracion/Trees/ArbolInterior/Textura/TexturesCom_Branches0039_1_masked_S.TexturesCom_Branches0039_1_masked_S
+[2023.06.14-08.16.33:807][347]LogContentValidation: Display: Validating StaticMesh /Game/Modelos/Decoracion/Trees/ArbolInterior/leaves.leaves
+[2023.06.14-08.16.33:807][347]LogContentValidation: Display: Validating StaticMesh /Game/Modelos/Decoracion/Trees/ArbolInterior/Hojas_Fusionadas.Hojas_Fusionadas
+[2023.06.14-08.16.33:807][347]LogContentValidation: Display: Validating StaticMesh /Game/Modelos/Decoracion/Trees/ArbolInterior/Espirales.Espirales
+[2023.06.14-08.16.33:807][347]LogContentValidation: Display: Validating StaticMesh /Game/Modelos/Decoracion/Trees/ArbolInterior/Secuoya_low.Secuoya_low
+[2023.06.14-08.16.33:807][347]LogContentValidation: Display: Validating ObjectRedirector /Game/Modelos/Decoracion/Trees/ArbolDefinitivo_FoliageType.ArbolDefinitivo_FoliageType
+[2023.06.14-08.16.33:807][347]LogContentValidation: Display: Validating ObjectRedirector /Game/Modelos/Decoracion/Trees/ArbolDefinitivo_2_FoliageType.ArbolDefinitivo_2_FoliageType
+[2023.06.14-08.16.38:218][764]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Practicas\Modelos\PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_BaseColor.png)
+[2023.06.14-08.16.38:957][764]LogDerivedDataCache: C:/Users/terza/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.792 and deleted 0 file(s) with total size 0 MiB.
+[2023.06.14-08.16.39:084][764]LogTexture: Display: Building textures: /Game/Modelos/Decoracion/Trees/PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_BaseColor.PalmTree_TT_checker_4096x4096_UV_GRID_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.06.14-08.16.39:084][764]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Practicas\Modelos\PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_Normal.png)
+[2023.06.14-08.16.40:183][764]LogTexture: Display: Building textures: /Game/Modelos/Decoracion/Trees/PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_Normal.PalmTree_TT_checker_4096x4096_UV_GRID_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.06.14-08.16.40:209][764]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Practicas\Modelos\PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_OcclusionRoughnessMetallic.png)
+[2023.06.14-08.16.40:742][764]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Practicas\Modelos\PalmTree/Variaciones/PalmTree1.fbx)
+[2023.06.14-08.16.40:762][764]LogTexture: Display: Building textures: /Game/Modelos/Decoracion/Trees/PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_OcclusionRoughnessMetallic.PalmTree_TT_checker_4096x4096_UV_GRID_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.06.14-08.16.40:769][764]LogFbx: Loading FBX Scene from D:\Practicas\Modelos\PalmTree/Variaciones/PalmTree1.fbx
+[2023.06.14-08.16.40:781][764]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.14-08.17.02:586][764]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.06.14-08.17.02:612][764]LogFbx: Triangulating skeletal mesh Tronco_low2
+[2023.06.14-08.17.02:628][764]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2023.06.14-08.17.02:652][764]LogSkeletalMesh: Section 0: Material=0, 1398 triangles
+[2023.06.14-08.17.02:671][764]LogSkeletalMesh: Building Skeletal Mesh PalmTree1_Tronco_low2...
+[2023.06.14-08.17.02:671][764]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (PalmTree1_Tronco_low2) ...
+[2023.06.14-08.17.02:674][764]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1.PalmTree1_Tronco_low2
+[2023.06.14-08.17.02:674][764]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.14-08.17.02:686][764]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.06.14-08.17.02:686][764]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.06.14-08.17.02:686][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.14-08.17.02:687][764]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.14-08.17.02:701][764]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.06.14-08.17.02:701][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.14-08.17.02:703][764]LogFbx: Triangulating skeletal mesh ParteArriba_low2
+[2023.06.14-08.17.02:722][764]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2023.06.14-08.17.02:744][764]LogSkeletalMesh: Section 0: Material=0, 1680 triangles
+[2023.06.14-08.17.02:763][764]LogSkeletalMesh: Building Skeletal Mesh PalmTree1_ParteArriba_low2...
+[2023.06.14-08.17.02:763][764]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (PalmTree1_ParteArriba_low2) ...
+[2023.06.14-08.17.02:767][764]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1.PalmTree1_ParteArriba_low2
+[2023.06.14-08.17.02:767][764]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.14-08.17.02:779][764]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.06.14-08.17.02:779][764]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.06.14-08.17.02:779][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.14-08.17.02:779][764]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.14-08.17.02:792][764]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.06.14-08.17.02:792][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.14-08.17.02:794][764]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.14-08.17.02:794][764]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2023.06.14-08.17.02:794][764]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2023.06.14-08.17.02:844][764]LogFactory: FactoryCreateFile: SkeletalMesh with FbxFactory (0 0 D:\Practicas\Modelos\PalmTree/Variaciones/PalmTree2.fbx)
+[2023.06.14-08.17.02:849][764]LogFbx: Loading FBX Scene from D:\Practicas\Modelos\PalmTree/Variaciones/PalmTree2.fbx
+[2023.06.14-08.17.02:855][764]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.14-08.17.02:855][764]LogFbx: Triangulating skeletal mesh Tronco_low
+[2023.06.14-08.17.02:870][764]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2023.06.14-08.17.02:889][764]LogSkeletalMesh: Section 0: Material=0, 1398 triangles
+[2023.06.14-08.17.02:908][764]LogSkeletalMesh: Building Skeletal Mesh PalmTree2_Tronco_low...
+[2023.06.14-08.17.02:908][764]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (PalmTree2_Tronco_low) ...
+[2023.06.14-08.17.02:909][764]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree2.PalmTree2_Tronco_low
+[2023.06.14-08.17.02:909][764]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.14-08.17.02:922][764]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_6:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.06.14-08.17.02:922][764]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.06.14-08.17.02:922][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.14-08.17.02:923][764]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.14-08.17.02:931][764]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.06.14-08.17.02:931][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.14-08.17.02:932][764]LogFbx: Triangulating skeletal mesh ParteArriba_low
+[2023.06.14-08.17.02:954][764]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2023.06.14-08.17.02:980][764]LogSkeletalMesh: Section 0: Material=0, 1904 triangles
+[2023.06.14-08.17.02:999][764]LogSkeletalMesh: Building Skeletal Mesh PalmTree2_ParteArriba_low...
+[2023.06.14-08.17.02:999][764]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (PalmTree2_ParteArriba_low) ...
+[2023.06.14-08.17.03:008][764]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree2.PalmTree2_ParteArriba_low
+[2023.06.14-08.17.03:009][764]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.14-08.17.03:022][764]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_8:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.06.14-08.17.03:022][764]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.06.14-08.17.03:022][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.14-08.17.03:022][764]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.14-08.17.03:031][764]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.06.14-08.17.03:031][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.14-08.17.03:033][764]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.14-08.17.03:033][764]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2023.06.14-08.17.03:033][764]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2023.06.14-08.17.04:856][900]LogSlate: Window 'Message Log' being destroyed
+[2023.06.14-08.17.04:861][900]LogSlate: Window 'Message Log' being destroyed
+[2023.06.14-08.17.22:092][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.06.14-08.17.23:299][682]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.14-08.17.23:334][682]LogUObjectGlobals: Force Deleting 15 Package(s):
+	Asset Name: /Game/Modelos/Decoracion/Trees/PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_OcclusionRoughnessMetallic.PalmTree_TT_checker_4096x4096_UV_GRID_OcclusionRoughnessMetallic
+	Asset Type: Texture2D
+	Asset Name: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1.PalmTree1_ParteArriba_low2
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1_ParteArriba_low2_PhysicsAsset.PalmTree1_ParteArriba_low2_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1_ParteArriba_low2_Skeleton.PalmTree1_ParteArriba_low2_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1.PalmTree1_Tronco_low2
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1_Tronco_low2_PhysicsAsset.PalmTree1_Tronco_low2_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1_Tronco_low2_Skeleton.PalmTree1_Tronco_low2_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree2.PalmTree2_ParteArriba_low
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree2_ParteArriba_low_PhysicsAsset.PalmTree2_ParteArriba_low_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree2_ParteArriba_low_Skeleton.PalmTree2_ParteArriba_low_Skeleton
+	Asset Type: Skeleton
+[2023.06.14-08.17.23:562][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2023.06.14-08.17.23:569][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.06.14-08.17.23:579][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.06.14-08.17.34:899][570]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Practicas\Modelos\PalmTree\Texturas\PalmTree_TT_checker_4096x4096_UV_GRID_BaseColor.png)
+[2023.06.14-08.17.35:791][570]LogTexture: Display: Building textures: /Game/Modelos/Decoracion/Trees/PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_BaseColor.PalmTree_TT_checker_4096x4096_UV_GRID_BaseColor (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.06.14-08.17.35:791][570]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Practicas\Modelos\PalmTree\Texturas\PalmTree_TT_checker_4096x4096_UV_GRID_Normal.png)
+[2023.06.14-08.17.36:913][570]LogTexture: Display: Building textures: /Game/Modelos/Decoracion/Trees/PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_Normal.PalmTree_TT_checker_4096x4096_UV_GRID_Normal (TFO_BC5, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.06.14-08.17.36:941][570]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Practicas\Modelos\PalmTree\Texturas\PalmTree_TT_checker_4096x4096_UV_GRID_OcclusionRoughnessMetallic.png)
+[2023.06.14-08.17.37:466][570]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1644)].
+[2023.06.14-08.17.37:482][571]LogTexture: Display: Building textures: /Game/Modelos/Decoracion/Trees/PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_OcclusionRoughnessMetallic.PalmTree_TT_checker_4096x4096_UV_GRID_OcclusionRoughnessMetallic (TFO_AutoDXT, 4096X4096 X1X1) (Required Memory Estimate: 640.000 MB), EncodeSpeed: Fast
+[2023.06.14-08.17.59:772][155]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Practicas\Modelos\PalmTree\Variaciones\PalmTree1.fbx)
+[2023.06.14-08.17.59:777][155]LogFbx: Loading FBX Scene from D:\Practicas\Modelos\PalmTree\Variaciones\PalmTree1.fbx
+[2023.06.14-08.17.59:782][155]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.14-08.18.11:683][155]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.06.14-08.18.11:709][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.06.14-08.18.11:710][155]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2023.06.14-08.18.11:801][155]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.06.14-08.18.11:802][155]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetTileView [SAssetView.cpp(1644)].
+[2023.06.14-08.18.11:802][155]FBXImport: Import was canceled. 
+[2023.06.14-08.18.11:846][155]LogAssetTools: The import task was canceled.
+[2023.06.14-08.18.15:837][513]LogSlate: Window 'Message Log' being destroyed
+[2023.06.14-08.18.15:843][513]LogSlate: Window 'Message Log' being destroyed
+[2023.06.14-08.18.19:620][642]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Practicas\Modelos\PalmTree\Variaciones\PalmTree1.fbx)
+[2023.06.14-08.18.19:625][642]LogFbx: Loading FBX Scene from D:\Practicas\Modelos\PalmTree\Variaciones\PalmTree1.fbx
+[2023.06.14-08.18.19:630][642]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.14-08.18.21:897][642]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.06.14-08.18.21:919][642]LogFbx: Triangulating skeletal mesh Tronco_low2
+[2023.06.14-08.18.21:934][642]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2023.06.14-08.18.21:954][642]LogSkeletalMesh: Section 0: Material=0, 1398 triangles
+[2023.06.14-08.18.21:972][642]LogSkeletalMesh: Building Skeletal Mesh PalmTree1_Tronco_low2...
+[2023.06.14-08.18.21:972][642]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (PalmTree1_Tronco_low2) ...
+[2023.06.14-08.18.21:973][642]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1.PalmTree1_Tronco_low2
+[2023.06.14-08.18.21:973][642]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.14-08.18.21:985][642]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_19:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.06.14-08.18.21:985][642]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.06.14-08.18.21:985][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.14-08.18.21:986][642]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.14-08.18.21:992][642]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.06.14-08.18.21:992][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.14-08.18.21:994][642]LogFbx: Triangulating skeletal mesh ParteArriba_low2
+[2023.06.14-08.18.22:016][642]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2023.06.14-08.18.22:039][642]LogSkeletalMesh: Section 0: Material=0, 1680 triangles
+[2023.06.14-08.18.22:058][642]LogSkeletalMesh: Building Skeletal Mesh PalmTree1_ParteArriba_low2...
+[2023.06.14-08.18.22:058][642]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (PalmTree1_ParteArriba_low2) ...
+[2023.06.14-08.18.22:061][642]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1.PalmTree1_ParteArriba_low2
+[2023.06.14-08.18.22:061][642]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.14-08.18.22:070][642]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.06.14-08.18.22:070][642]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.06.14-08.18.22:070][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.14-08.18.22:071][642]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.14-08.18.22:083][642]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.06.14-08.18.22:083][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.14-08.18.22:085][642]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.14-08.18.22:085][642]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2023.06.14-08.18.22:085][642]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2023.06.14-08.18.24:823][873]LogSlate: Window 'Message Log' being destroyed
+[2023.06.14-08.18.24:829][873]LogSlate: Window 'Message Log' being destroyed
+[2023.06.14-08.18.33:930][755]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1.PalmTree1_Tronco_low2
+[2023.06.14-08.18.33:930][755]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1.PalmTree1_Tronco_low2
+[2023.06.14-08.18.33:931][755]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1.PalmTree1_Tronco_low2 as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_0
+[2023.06.14-08.18.33:931][755]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1.PalmTree1_Tronco_low2 as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_0
+[2023.06.14-08.18.33:932][755]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1_ParteArriba_low2_PhysicsAsset.PalmTree1_ParteArriba_low2_PhysicsAsset as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_1
+[2023.06.14-08.18.33:932][755]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_1. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.06.14-08.18.33:932][755]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1_ParteArriba_low2_PhysicsAsset.PalmTree1_ParteArriba_low2_PhysicsAsset as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_1
+[2023.06.14-08.18.34:041][758]LogD3D12RHI: Creating RTPSO with 128 shaders (0 cached, 1 new) took 99.91 ms. Compile time 97.93 ms, link time 1.79 ms.
+[2023.06.14-08.18.34:990][859]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1.PalmTree1_Tronco_low2
+[2023.06.14-08.18.34:990][859]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1.PalmTree1_Tronco_low2
+[2023.06.14-08.18.34:991][859]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1.PalmTree1_Tronco_low2 as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_2
+[2023.06.14-08.18.34:991][859]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1.PalmTree1_Tronco_low2 as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_2
+[2023.06.14-08.18.35:046][859]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1_ParteArriba_low2_PhysicsAsset.PalmTree1_ParteArriba_low2_PhysicsAsset as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_3
+[2023.06.14-08.18.35:046][859]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_3. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.06.14-08.18.35:047][859]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1_ParteArriba_low2_PhysicsAsset.PalmTree1_ParteArriba_low2_PhysicsAsset as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_3
+[2023.06.14-08.18.44:401][790]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1_Tronco_low2_Skeleton.PalmTree1_Tronco_low2_Skeleton
+[2023.06.14-08.18.44:401][790]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1_Tronco_low2_Skeleton.PalmTree1_Tronco_low2_Skeleton
+[2023.06.14-08.18.44:401][790]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1.PalmTree1_Tronco_low2 as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_4
+[2023.06.14-08.18.44:401][790]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1.PalmTree1_Tronco_low2 as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_4
+[2023.06.14-08.18.44:402][790]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1_ParteArriba_low2_Skeleton.PalmTree1_ParteArriba_low2_Skeleton
+[2023.06.14-08.18.44:402][790]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1_ParteArriba_low2_Skeleton.PalmTree1_ParteArriba_low2_Skeleton
+[2023.06.14-08.18.44:402][790]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1.PalmTree1_ParteArriba_low2 as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_5
+[2023.06.14-08.18.44:402][790]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1.PalmTree1_ParteArriba_low2 as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_5
+[2023.06.14-08.18.45:963][957]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1_Tronco_low2_Skeleton.PalmTree1_Tronco_low2_Skeleton
+[2023.06.14-08.18.45:963][957]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1_Tronco_low2_Skeleton.PalmTree1_Tronco_low2_Skeleton
+[2023.06.14-08.18.45:963][957]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1.PalmTree1_Tronco_low2 as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_6
+[2023.06.14-08.18.45:964][957]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1.PalmTree1_Tronco_low2 as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_6
+[2023.06.14-08.18.45:977][957]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1_ParteArriba_low2_Skeleton.PalmTree1_ParteArriba_low2_Skeleton
+[2023.06.14-08.18.45:977][957]LogActorFactory: Actor Factory attempting to spawn Skeleton /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1_ParteArriba_low2_Skeleton.PalmTree1_ParteArriba_low2_Skeleton
+[2023.06.14-08.18.45:978][957]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1.PalmTree1_ParteArriba_low2 as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_7
+[2023.06.14-08.18.45:978][957]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/PalmTree1.PalmTree1_ParteArriba_low2 as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_7
+[2023.06.14-08.18.48:783][251]Cmd: DELETE
+[2023.06.14-08.18.48:783][251]Cmd: ACTOR DELETE
+[2023.06.14-08.18.48:793][251]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.06.14-08.18.48:793][251]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.06.14-08.18.48:799][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.06.14-08.18.48:800][251]LogEditorActor: Deleted 2 Actors (0.011 secs)
+[2023.06.14-08.19.11:461][611]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.14-08.19.11:480][611]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.14-08.19.11:486][612]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.14-08.19.14:669][961]LogContentBrowser: Attempting asset rename: NewFolder -> Variacion1
+[2023.06.14-08.19.14:669][961]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.14-08.19.19:676][438]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_Tronco_low2_Skeleton
+[2023.06.14-08.19.19:676][438]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/PalmTree1_Tronco_low2_Skeleton1EE1854B41D605D9AE146B9FC9AB8764.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_Tronco_low2_Skeleton.uasset'
+[2023.06.14-08.19.19:694][438]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_ParteArriba_low2
+[2023.06.14-08.19.19:694][438]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/PalmTree1_ParteArriba_low2F8FC6E5E44985ADF7279DBB328D24000.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_ParteArriba_low2.uasset'
+[2023.06.14-08.19.19:705][438]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_ParteArriba_low2_PhysicsAsset
+[2023.06.14-08.19.19:705][438]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/PalmTree1_ParteArriba_low2_Physi0EF6739648BB639E2B1848AE273DADCF.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_ParteArriba_low2_PhysicsAsset.uasset'
+[2023.06.14-08.19.19:717][438]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_ParteArriba_low2_Skeleton
+[2023.06.14-08.19.19:717][438]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/PalmTree1_ParteArriba_low2_Skele103FF98A4C34E62C9B18909FBB7C4C0B.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_ParteArriba_low2_Skeleton.uasset'
+[2023.06.14-08.19.19:736][438]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_Tronco_low2
+[2023.06.14-08.19.19:736][438]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/PalmTree1_Tronco_low226D1366B40D2DC05CE13F496AE6CB9B5.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_Tronco_low2.uasset'
+[2023.06.14-08.19.19:745][438]LogSavePackage: Moving output files for package: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_Tronco_low2_PhysicsAsset
+[2023.06.14-08.19.19:745][438]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/PalmTree1_Tronco_low2_PhysicsAss2A4A3E4A4A64EFA13DC9CD81291A1FF5.tmp' to 'D:/UNREAL/Long_Way_Home/Content/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_Tronco_low2_PhysicsAsset.uasset'
+[2023.06.14-08.19.19:778][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.06.14-08.19.19:785][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2023.06.14-08.19.19:791][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.14-08.19.19:803][438]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.14-08.19.19:803][438]LogContentValidation: Display: Validating PhysicsAsset /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_Tronco_low2_PhysicsAsset.PalmTree1_Tronco_low2_PhysicsAsset
+[2023.06.14-08.19.19:803][438]LogContentValidation: Display: Validating PhysicsAsset /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_ParteArriba_low2_PhysicsAsset.PalmTree1_ParteArriba_low2_PhysicsAsset
+[2023.06.14-08.19.19:803][438]LogContentValidation: Display: Validating Skeleton /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_ParteArriba_low2_Skeleton.PalmTree1_ParteArriba_low2_Skeleton
+[2023.06.14-08.19.19:803][438]LogContentValidation: Display: Validating SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_ParteArriba_low2.PalmTree1_ParteArriba_low2
+[2023.06.14-08.19.19:803][438]LogContentValidation: Display: Validating Skeleton /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_Tronco_low2_Skeleton.PalmTree1_Tronco_low2_Skeleton
+[2023.06.14-08.19.19:803][438]LogContentValidation: Display: Validating SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_Tronco_low2.PalmTree1_Tronco_low2
+[2023.06.14-08.19.22:237][661]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.14-08.19.22:298][661]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.14-08.19.22:305][662]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.14-08.19.25:212][984]LogContentBrowser: Attempting asset rename: NewFolder -> Variacion2
+[2023.06.14-08.19.25:212][984]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.14-08.19.29:638][340]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Practicas\Modelos\PalmTree\Variaciones\PalmTree2.fbx)
+[2023.06.14-08.19.29:642][340]LogFbx: Loading FBX Scene from D:\Practicas\Modelos\PalmTree\Variaciones\PalmTree2.fbx
+[2023.06.14-08.19.29:647][340]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.14-08.19.36:060][340]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.06.14-08.19.36:079][340]LogFbx: Triangulating skeletal mesh Tronco_low
+[2023.06.14-08.19.36:093][340]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2023.06.14-08.19.36:112][340]LogSkeletalMesh: Section 0: Material=0, 1398 triangles
+[2023.06.14-08.19.36:130][340]LogSkeletalMesh: Building Skeletal Mesh PalmTree2_Tronco_low...
+[2023.06.14-08.19.36:130][340]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (PalmTree2_Tronco_low) ...
+[2023.06.14-08.19.36:133][340]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2.PalmTree2_Tronco_low
+[2023.06.14-08.19.36:133][340]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.14-08.19.36:144][340]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_27:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.06.14-08.19.36:144][340]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.06.14-08.19.36:144][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.14-08.19.36:145][340]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.14-08.19.36:158][340]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.06.14-08.19.36:158][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.14-08.19.36:160][340]LogFbx: Triangulating skeletal mesh ParteArriba_low
+[2023.06.14-08.19.36:182][340]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2023.06.14-08.19.36:207][340]LogSkeletalMesh: Section 0: Material=0, 1904 triangles
+[2023.06.14-08.19.36:226][340]LogSkeletalMesh: Building Skeletal Mesh PalmTree2_ParteArriba_low...
+[2023.06.14-08.19.36:226][340]LogSkeletalMesh: Display: Waiting for skeletal meshes to be ready 0/1 (PalmTree2_ParteArriba_low) ...
+[2023.06.14-08.19.36:233][340]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2.PalmTree2_ParteArriba_low
+[2023.06.14-08.19.36:233][340]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.14-08.19.36:244][340]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_29:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2023.06.14-08.19.36:244][340]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.06.14-08.19.36:244][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.14-08.19.36:245][340]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.14-08.19.36:258][340]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.06.14-08.19.36:258][340]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.14-08.19.36:260][340]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.14-08.19.36:260][340]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2023.06.14-08.19.36:260][340]FBXImport: Warning: Could not find the bind pose.  It will use time 0 as bind pose. 
+[2023.06.14-08.19.39:269][613]LogSlate: Window 'Message Log' being destroyed
+[2023.06.14-08.19.39:276][613]LogSlate: Window 'Message Log' being destroyed
+[2023.06.14-08.19.44:700][111]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2_ParteArriba_low_PhysicsAsset.PalmTree2_ParteArriba_low_PhysicsAsset as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_8
+[2023.06.14-08.19.44:700][111]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_8. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.06.14-08.19.44:701][111]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2_ParteArriba_low_PhysicsAsset.PalmTree2_ParteArriba_low_PhysicsAsset as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_8
+[2023.06.14-08.19.44:701][111]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2_Tronco_low_PhysicsAsset.PalmTree2_Tronco_low_PhysicsAsset as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_9
+[2023.06.14-08.19.44:701][111]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_9. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.06.14-08.19.44:701][111]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2_Tronco_low_PhysicsAsset.PalmTree2_Tronco_low_PhysicsAsset as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_9
+[2023.06.14-08.19.46:236][279]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2_ParteArriba_low_PhysicsAsset.PalmTree2_ParteArriba_low_PhysicsAsset as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_10
+[2023.06.14-08.19.46:236][279]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_10. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.06.14-08.19.46:236][279]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2_ParteArriba_low_PhysicsAsset.PalmTree2_ParteArriba_low_PhysicsAsset as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_10
+[2023.06.14-08.19.46:251][279]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2_Tronco_low_PhysicsAsset.PalmTree2_Tronco_low_PhysicsAsset as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_11
+[2023.06.14-08.19.46:251][279]LogActor: Warning: SetReplicates called on non-initialized actor SkeletalMeshActor_11. Directly setting bReplicates is the correct procedure for pre-init actors.
+[2023.06.14-08.19.46:251][279]LogActorFactory: Actor Factory spawned PhysicsAsset /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2_Tronco_low_PhysicsAsset.PalmTree2_Tronco_low_PhysicsAsset as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_11
+[2023.06.14-08.20.09:879][430]LogSlate: Window 'Merge Actors' being destroyed
+[2023.06.14-08.20.09:884][430]LogSlate: Window 'Merge Actors' being destroyed
+[2023.06.14-08.20.17:228][173]LogSlate: Window 'Merge Actors' being destroyed
+[2023.06.14-08.20.17:234][173]LogSlate: Window 'Merge Actors' being destroyed
+[2023.06.14-08.20.18:560][318]Cmd: DELETE
+[2023.06.14-08.20.18:560][318]Cmd: ACTOR DELETE
+[2023.06.14-08.20.18:562][318]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.06.14-08.20.18:562][318]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.06.14-08.20.18:569][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2023.06.14-08.20.18:570][318]LogEditorActor: Deleted 2 Actors (0.010 secs)
+[2023.06.14-08.20.21:044][579]Cmd: DELETE
+[2023.06.14-08.20.21:044][579]Cmd: ACTOR DELETE
+[2023.06.14-08.20.21:046][579]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.06.14-08.20.21:046][579]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.06.14-08.20.21:053][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.06.14-08.20.21:054][579]LogEditorActor: Deleted 2 Actors (0.009 secs)
+[2023.06.14-08.20.44:554][673]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_ParteArriba_low2.PalmTree1_ParteArriba_low2
+[2023.06.14-08.20.44:554][673]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_ParteArriba_low2.PalmTree1_ParteArriba_low2
+[2023.06.14-08.20.44:555][673]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_ParteArriba_low2.PalmTree1_ParteArriba_low2 as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_12
+[2023.06.14-08.20.44:555][673]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_ParteArriba_low2.PalmTree1_ParteArriba_low2 as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_12
+[2023.06.14-08.20.44:555][673]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_Tronco_low2.PalmTree1_Tronco_low2
+[2023.06.14-08.20.44:555][673]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_Tronco_low2.PalmTree1_Tronco_low2
+[2023.06.14-08.20.44:555][673]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_Tronco_low2.PalmTree1_Tronco_low2 as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_13
+[2023.06.14-08.20.44:555][673]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_Tronco_low2.PalmTree1_Tronco_low2 as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_13
+[2023.06.14-08.20.45:222][745]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_ParteArriba_low2.PalmTree1_ParteArriba_low2
+[2023.06.14-08.20.45:222][745]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_ParteArriba_low2.PalmTree1_ParteArriba_low2
+[2023.06.14-08.20.45:223][745]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_ParteArriba_low2.PalmTree1_ParteArriba_low2 as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_14
+[2023.06.14-08.20.45:223][745]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_ParteArriba_low2.PalmTree1_ParteArriba_low2 as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_14
+[2023.06.14-08.20.45:236][745]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_Tronco_low2.PalmTree1_Tronco_low2
+[2023.06.14-08.20.45:236][745]LogActorFactory: Actor Factory attempting to spawn SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_Tronco_low2.PalmTree1_Tronco_low2
+[2023.06.14-08.20.45:236][745]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_Tronco_low2.PalmTree1_Tronco_low2 as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_15
+[2023.06.14-08.20.45:236][745]LogActorFactory: Actor Factory spawned SkeletalMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_Tronco_low2.PalmTree1_Tronco_low2 as actor: SkeletalMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.SkeletalMeshActor_15
+[2023.06.14-08.20.51:721][362]LogSlate: Window 'Merge Actors' being destroyed
+[2023.06.14-08.20.51:728][362]LogSlate: Window 'Merge Actors' being destroyed
+[2023.06.14-08.21.11:983][  4]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.06.14-08.21.11:991][  4]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.14-08.21.11:991][  4]PIE: New page: PIE session: Persistent_Level (14 jun. 2023 12:21:11)
+[2023.06.14-08.21.11:994][  4]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.06.14-08.21.11:994][  4]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.06.14-08.21.11:994][  4]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Persistent_Level
+[2023.06.14-08.21.11:997][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002619s)
+[2023.06.14-08.21.11:997][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Persistent_Level.Persistent_Level to /Game/Maps/UEDPIE_0_Persistent_Level.Persistent_Level (0.002673s)
+[2023.06.14-08.21.11:997][  4]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2023.06.14-08.21.11:997][  4]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.14-08.21.11:997][  4]LogAIModule: Creating AISystem for world Persistent_Level
+[2023.06.14-08.21.11:998][  4]LogPlayLevel: PIE: World Init took: (0.000758s)
+[2023.06.14-08.21.12:006][  4]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.06.14-08.21.12:007][  4]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.06.14-08.21.12:007][  4]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.14-08.21.12:007][  4]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.14-08.21.12:007][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.14-08.21.12:007][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.14-08.21.12:007][  4]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.14-08.21.12:007][  4]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.14-08.21.12:007][  4]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.14-08.21.12:007][  4]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.14-08.21.12:007][  4]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.14-08.21.12:007][  4]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.14-08.21.12:007][  4]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.14-08.21.12:009][  4]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.14-08.21.12:024][  4]LogAudioMixer: Display: Using Audio Hardware Device Audífono de los auriculares con micrófono (G435 Wireless Gaming Headset)
+[2023.06.14-08.21.12:024][  4]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.14-08.21.12:024][  4]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.14-08.21.12:024][  4]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.14-08.21.12:025][  4]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.06.14-08.21.12:025][  4]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.06.14-08.21.12:026][  4]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.06.14-08.21.12:026][  4]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.06.14-08.21.12:026][  4]LogInit: FAudioDevice initialized.
+[2023.06.14-08.21.12:026][  4]LogAudio: Display: Audio Device (ID: 2) registered with world 'Persistent_Level'.
+[2023.06.14-08.21.12:071][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.14-08.21.12:071][  4]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.06.14-08.21.12:100][  4]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Persistent_Level.Persistent_Level up for play (max tick rate 0) at 2023.06.14-10.21.12
+[2023.06.14-08.21.12:102][  4]LogWorld: Bringing up level for play took: 0.002552
+[2023.06.14-08.21.12:104][  4]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.06.14-08.21.12:152][  4]PIE: Server logged in
+[2023.06.14-08.21.12:153][  4]PIE: Play in editor total start time 0,164 seconds.
+[2023.06.14-08.21.12:197][  4]LogViewport: Scene viewport resized to 1914x980, mode Windowed.
+[2023.06.14-08.21.12:263][  5]LogD3D12RHI: Creating RTPSO with 129 shaders (0 cached, 1 new) took 13.20 ms. Compile time 11.33 ms, link time 1.66 ms.
+[2023.06.14-08.22.21:983][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.14-08.22.21:983][127]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_Persistent_Level
+[2023.06.14-08.22.21:985][127]LogSlate: Window 'Long_Way_Home Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.06.14-08.22.21:999][127]LogWorld: UWorld::CleanupWorld for Persistent_Level, bSessionEnded=true, bCleanupResources=true
+[2023.06.14-08.22.22:000][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.14-08.22.22:013][127]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.14-08.22.22:015][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.14-08.22.22:023][127]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.14-08.22.22:023][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.06.14-08.22.22:024][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.06.14-08.22.22:029][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.06.14-08.22.22:057][128]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.06.14-08.22.22:064][128]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.06.14-08.22.28:056][760]Cmd: DELETE
+[2023.06.14-08.22.28:056][760]Cmd: ACTOR DELETE
+[2023.06.14-08.22.28:058][760]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.06.14-08.22.28:058][760]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2023.06.14-08.22.28:064][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.06.14-08.22.28:065][760]LogEditorActor: Deleted 2 Actors (0.008 secs)
+[2023.06.14-08.22.39:708][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.06.14-08.22.41:997][946]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.14-08.22.42:029][946]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_Tronco_low2_Skeleton.PalmTree1_Tronco_low2_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_ParteArriba_low2.PalmTree1_ParteArriba_low2
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_ParteArriba_low2_PhysicsAsset.PalmTree1_ParteArriba_low2_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_ParteArriba_low2_Skeleton.PalmTree1_ParteArriba_low2_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_Tronco_low2.PalmTree1_Tronco_low2
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_Tronco_low2_PhysicsAsset.PalmTree1_Tronco_low2_PhysicsAsset
+	Asset Type: PhysicsAsset
+[2023.06.14-08.22.42:199][946]LogShaderCompilers: Display: ================================================
+[2023.06.14-08.22.42:199][946]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.14-08.22.42:199][946]LogShaderCompilers: Display: Total job queries 145, among them cache hits 3 (2.07%)
+[2023.06.14-08.22.42:199][946]LogShaderCompilers: Display: Tracking 142 distinct input hashes that result in 118 distinct outputs (83.10%)
+[2023.06.14-08.22.42:199][946]LogShaderCompilers: Display: RAM used: 0.46 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2023.06.14-08.22.42:199][946]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.14-08.22.42:199][946]LogShaderCompilers: Display: Shaders Compiled: 142
+[2023.06.14-08.22.42:199][946]LogShaderCompilers: Display: Jobs assigned 142, completed 142 (100.00%)
+[2023.06.14-08.22.42:199][946]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.06.14-08.22.42:199][946]LogShaderCompilers: Display: Time job spent in pending queue: average 5.98 s, longest 19.59 s
+[2023.06.14-08.22.42:199][946]LogShaderCompilers: Display: Job execution time: average 8.46 s, max 14.44 s
+[2023.06.14-08.22.42:199][946]LogShaderCompilers: Display: Job life time (pending + execution): average 14.44 s, max 21.01
+[2023.06.14-08.22.42:199][946]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 21.14 s
+[2023.06.14-08.22.42:200][946]LogShaderCompilers: Display: Jobs were issued in 30 batches (only local compilation was used), average 4.73 jobs/batch
+[2023.06.14-08.22.42:200][946]LogShaderCompilers: Display: Average processing rate: 6.72 jobs/sec
+[2023.06.14-08.22.42:200][946]LogShaderCompilers: Display: Effective parallelization: 6.95 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.06.14-08.22.42:200][946]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.14-08.22.42:200][946]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    4 times, average 2.26 sec, max 2.48 sec, min 2.02 sec)
+[2023.06.14-08.22.42:200][946]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    4 times, average 2.24 sec, max 2.44 sec, min 1.73 sec)
+[2023.06.14-08.22.42:200][946]LogShaderCompilers: Display: TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader (compiled    4 times, average 2.02 sec, max 2.44 sec, min 1.33 sec)
+[2023.06.14-08.22.42:200][946]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    2 times, average 1.45 sec, max 1.48 sec, min 1.42 sec)
+[2023.06.14-08.22.42:200][946]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 1.41 sec, max 1.43 sec, min 1.39 sec)
+[2023.06.14-08.22.42:200][946]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.14-08.22.42:200][946]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 6.16% of total time (compiled    4 times, average 2.26 sec, max 2.48 sec, min 2.02 sec)
+[2023.06.14-08.22.42:200][946]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 6.11% of total time (compiled    4 times, average 2.24 sec, max 2.44 sec, min 1.73 sec)
+[2023.06.14-08.22.42:200][946]LogShaderCompilers: Display: TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader - 5.49% of total time (compiled    4 times, average 2.02 sec, max 2.44 sec, min 1.33 sec)
+[2023.06.14-08.22.42:200][946]LogShaderCompilers: Display:                                             FDebugViewModePS - 3.68% of total time (compiled    4 times, average 1.35 sec, max 1.61 sec, min 1.01 sec)
+[2023.06.14-08.22.42:200][946]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 3.48% of total time (compiled    4 times, average 1.28 sec, max 1.43 sec, min 1.13 sec)
+[2023.06.14-08.22.42:200][946]LogShaderCompilers: Display: ================================================
+[2023.06.14-08.22.42:207][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2023.06.14-08.22.42:215][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.06.14-08.22.42:221][946]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2023.06.14-08.22.51:521][373]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Practicas\Modelos\PalmTree\Variaciones\PalmTree1.fbx)
+[2023.06.14-08.22.51:526][373]LogFbx: Loading FBX Scene from D:\Practicas\Modelos\PalmTree\Variaciones\PalmTree1.fbx
+[2023.06.14-08.22.51:531][373]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.14-08.23.00:950][373]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.06.14-08.23.00:970][373]LogFbx: Display: Triangulating static mesh Tronco_low2
+[2023.06.14-08.23.00:987][373]LogFbx: Display: Triangulating static mesh ParteArriba_low2
+[2023.06.14-08.23.01:011][373]LogStaticMesh: Display: Building static mesh PalmTree1...
+[2023.06.14-08.23.01:034][373]LogStaticMesh: Adjacency [0.00s], tris: 3078, UVs 2
+[2023.06.14-08.23.01:044][373]LogStaticMesh: Clustering [0.01s]. Ratio: 1.280000
+[2023.06.14-08.23.01:045][373]LogStaticMesh: Leaves [0.00s]
+[2023.06.14-08.23.01:045][373]LogStaticMesh: Num clusters 32. Error 0.0000, 0.0000, 0.0000
+[2023.06.14-08.23.01:095][373]LogStaticMesh: Num clusters 13. Error 16.7764, 16.7764, 16.7764
+[2023.06.14-08.23.01:120][373]LogStaticMesh: Num clusters 7. Error 31.2187, 31.2187, 31.2187
+[2023.06.14-08.23.01:131][373]LogStaticMesh: Num clusters 4. Error 55.6207, 55.6207, 55.6207
+[2023.06.14-08.23.01:136][373]LogStaticMesh: Num clusters 2. Error 77.0040, 77.0040, 77.0040
+[2023.06.14-08.23.01:137][373]LogStaticMesh: Num clusters 1. Error 123.5755, 123.5755, 123.5755
+[2023.06.14-08.23.01:137][373]LogStaticMesh: Reduce [0.09s]
+[2023.06.14-08.23.01:179][373]LogStaticMesh: Fallback 0/1 [0.04s], num tris: 1903
+[2023.06.14-08.23.01:180][373]LogStaticMesh: ConstrainClusters:
+[2023.06.14-08.23.01:180][373]LogStaticMesh:   Input: 59 Clusters, 6477 Triangles and 5617 Vertices
+[2023.06.14-08.23.01:180][373]LogStaticMesh:   Output without splits: 59 Clusters, 6477 Triangles and 5621 Vertices
+[2023.06.14-08.23.01:180][373]LogStaticMesh:   Output with splits: 59 Clusters, 6477 Triangles and 5621 Vertices
+[2023.06.14-08.23.01:180][373]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 59, Slow Path Clusters: 0, 1 Material: 59, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.06.14-08.23.01:182][373]LogStaticMesh: WritePages:
+[2023.06.14-08.23.01:182][373]LogStaticMesh:   Root: GPU size: 30948 bytes. 1 Pages. 30948.000 bytes per page (94.446% utilization).
+[2023.06.14-08.23.01:182][373]LogStaticMesh:   Streaming: GPU size: 69184 bytes. 1 Pages. 69184.000 bytes per page (52.783% utilization).
+[2023.06.14-08.23.01:182][373]LogStaticMesh:   Page data disk size: 77148 bytes. Fixup data size: 168 bytes.
+[2023.06.14-08.23.01:182][373]LogStaticMesh:   Total GPU size: 100132 bytes, Total disk size: 77316 bytes.
+[2023.06.14-08.23.01:182][373]LogStaticMesh: Encode [0.00s]
+[2023.06.14-08.23.01:182][373]LogStaticMesh: Imposter [0.00s]
+[2023.06.14-08.23.01:182][373]LogStaticMesh: Nanite build [0.14s]
+
+[2023.06.14-08.23.01:188][373]LogStaticMesh: Built static mesh [0.18s] /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1.PalmTree1
+[2023.06.14-08.23.01:196][373]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.14-08.23.02:127][373]LogStaticMesh: Display: Building static mesh PalmTree1...
+[2023.06.14-08.23.02:145][373]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1) ...
+[2023.06.14-08.23.02:303][373]LogStaticMesh: Adjacency [0.00s], tris: 3078, UVs 2
+[2023.06.14-08.23.02:303][373]LogStaticMesh: Clustering [0.01s]. Ratio: 1.280000
+[2023.06.14-08.23.02:303][373]LogStaticMesh: Leaves [0.00s]
+[2023.06.14-08.23.02:303][373]LogStaticMesh: Num clusters 32. Error 0.0000, 0.0000, 0.0000
+[2023.06.14-08.23.02:303][373]LogStaticMesh: Num clusters 13. Error 16.7764, 16.7764, 16.7764
+[2023.06.14-08.23.02:303][373]LogStaticMesh: Num clusters 7. Error 31.2187, 31.2187, 31.2187
+[2023.06.14-08.23.02:303][373]LogStaticMesh: Num clusters 4. Error 55.6207, 55.6207, 55.6207
+[2023.06.14-08.23.02:303][373]LogStaticMesh: Num clusters 2. Error 77.0040, 77.0040, 77.0040
+[2023.06.14-08.23.02:303][373]LogStaticMesh: Num clusters 1. Error 123.5755, 123.5755, 123.5755
+[2023.06.14-08.23.02:303][373]LogStaticMesh: Reduce [0.09s]
+[2023.06.14-08.23.02:303][373]LogStaticMesh: Fallback 0/1 [0.04s], num tris: 1903
+[2023.06.14-08.23.02:303][373]LogStaticMesh: ConstrainClusters:
+[2023.06.14-08.23.02:303][373]LogStaticMesh:   Input: 59 Clusters, 6477 Triangles and 5617 Vertices
+[2023.06.14-08.23.02:303][373]LogStaticMesh:   Output without splits: 59 Clusters, 6477 Triangles and 5621 Vertices
+[2023.06.14-08.23.02:303][373]LogStaticMesh:   Output with splits: 59 Clusters, 6477 Triangles and 5621 Vertices
+[2023.06.14-08.23.02:303][373]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 59, Slow Path Clusters: 0, 1 Material: 59, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.06.14-08.23.02:303][373]LogStaticMesh: WritePages:
+[2023.06.14-08.23.02:303][373]LogStaticMesh:   Root: GPU size: 30948 bytes. 1 Pages. 30948.000 bytes per page (94.446% utilization).
+[2023.06.14-08.23.02:303][373]LogStaticMesh:   Streaming: GPU size: 69184 bytes. 1 Pages. 69184.000 bytes per page (52.783% utilization).
+[2023.06.14-08.23.02:303][373]LogStaticMesh:   Page data disk size: 77148 bytes. Fixup data size: 168 bytes.
+[2023.06.14-08.23.02:303][373]LogStaticMesh:   Total GPU size: 100132 bytes, Total disk size: 77316 bytes.
+[2023.06.14-08.23.02:303][373]LogStaticMesh: Encode [0.00s]
+[2023.06.14-08.23.02:303][373]LogStaticMesh: Imposter [0.00s]
+[2023.06.14-08.23.02:304][373]LogStaticMesh: Nanite build [0.14s]
+
+[2023.06.14-08.23.02:304][373]LogStaticMesh: Built static mesh [0.17s] /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1.PalmTree1
+[2023.06.14-08.23.04:092][486]LogSlate: Window 'Message Log' being destroyed
+[2023.06.14-08.23.04:097][486]LogSlate: Window 'Message Log' being destroyed
+[2023.06.14-08.23.07:213][761]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1.PalmTree1
+[2023.06.14-08.23.07:213][761]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1.PalmTree1
+[2023.06.14-08.23.07:214][761]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1.PalmTree1 as actor: StaticMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.StaticMeshActor_0
+[2023.06.14-08.23.08:443][889]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1.PalmTree1
+[2023.06.14-08.23.08:443][889]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1.PalmTree1
+[2023.06.14-08.23.08:443][889]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1.PalmTree1 as actor: StaticMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.StaticMeshActor_2
+[2023.06.14-08.23.17:175][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.06.14-08.23.18:334][710]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.14-08.23.18:363][710]LogUObjectGlobals: Force Deleting 6 Package(s):
+	Asset Name: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2_Tronco_low_Skeleton.PalmTree2_Tronco_low_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2.PalmTree2_ParteArriba_low
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2_ParteArriba_low_PhysicsAsset.PalmTree2_ParteArriba_low_PhysicsAsset
+	Asset Type: PhysicsAsset
+	Asset Name: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2_ParteArriba_low_Skeleton.PalmTree2_ParteArriba_low_Skeleton
+	Asset Type: Skeleton
+	Asset Name: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2.PalmTree2_Tronco_low
+	Asset Type: SkeletalMesh
+	Asset Name: /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2_Tronco_low_PhysicsAsset.PalmTree2_Tronco_low_PhysicsAsset
+	Asset Type: PhysicsAsset
+[2023.06.14-08.23.18:510][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.06.14-08.23.18:516][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.06.14-08.23.18:522][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2023.06.14-08.25.24:851][631]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Practicas\Modelos\PalmTree\Variaciones\PalmTree2.fbx)
+[2023.06.14-08.25.24:856][631]LogFbx: Loading FBX Scene from D:\Practicas\Modelos\PalmTree\Variaciones\PalmTree2.fbx
+[2023.06.14-08.25.24:861][631]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.14-08.25.29:029][631]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.06.14-08.25.29:050][631]LogFbx: Display: Triangulating static mesh Tronco_low
+[2023.06.14-08.25.29:067][631]LogFbx: Display: Triangulating static mesh ParteArriba_low
+[2023.06.14-08.25.29:092][631]LogStaticMesh: Display: Building static mesh PalmTree2...
+[2023.06.14-08.25.29:114][631]LogStaticMesh: Adjacency [0.00s], tris: 3302, UVs 2
+[2023.06.14-08.25.29:123][631]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2023.06.14-08.25.29:123][631]LogStaticMesh: Leaves [0.00s]
+[2023.06.14-08.25.29:123][631]LogStaticMesh: Num clusters 26. Error 0.0000, 0.0000, 0.0000
+[2023.06.14-08.25.29:178][631]LogStaticMesh: Num clusters 13. Error 16.7275, 16.7275, 16.7275
+[2023.06.14-08.25.29:203][631]LogStaticMesh: Num clusters 7. Error 31.5298, 31.5298, 31.5298
+[2023.06.14-08.25.29:214][631]LogStaticMesh: Num clusters 4. Error 53.3625, 53.3625, 53.3625
+[2023.06.14-08.25.29:219][631]LogStaticMesh: Num clusters 2. Error 78.6320, 78.6320, 78.6320
+[2023.06.14-08.25.29:221][631]LogStaticMesh: Num clusters 1. Error 123.6203, 123.6203, 123.6203
+[2023.06.14-08.25.29:221][631]LogStaticMesh: Reduce [0.10s]
+[2023.06.14-08.25.29:267][631]LogStaticMesh: Fallback 0/1 [0.05s], num tris: 1971
+[2023.06.14-08.25.29:268][631]LogStaticMesh: ConstrainClusters:
+[2023.06.14-08.25.29:268][631]LogStaticMesh:   Input: 53 Clusters, 6703 Triangles and 5775 Vertices
+[2023.06.14-08.25.29:268][631]LogStaticMesh:   Output without splits: 53 Clusters, 6703 Triangles and 5778 Vertices
+[2023.06.14-08.25.29:268][631]LogStaticMesh:   Output with splits: 53 Clusters, 6703 Triangles and 5778 Vertices
+[2023.06.14-08.25.29:268][631]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 53, Slow Path Clusters: 0, 1 Material: 53, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.06.14-08.25.29:270][631]LogStaticMesh: WritePages:
+[2023.06.14-08.25.29:270][631]LogStaticMesh:   Root: GPU size: 30976 bytes. 1 Pages. 30976.000 bytes per page (94.531% utilization).
+[2023.06.14-08.25.29:270][631]LogStaticMesh:   Streaming: GPU size: 71656 bytes. 1 Pages. 71656.000 bytes per page (54.669% utilization).
+[2023.06.14-08.25.29:270][631]LogStaticMesh:   Page data disk size: 78680 bytes. Fixup data size: 168 bytes.
+[2023.06.14-08.25.29:270][631]LogStaticMesh:   Total GPU size: 102632 bytes, Total disk size: 78848 bytes.
+[2023.06.14-08.25.29:270][631]LogStaticMesh: Encode [0.00s]
+[2023.06.14-08.25.29:270][631]LogStaticMesh: Imposter [0.00s]
+[2023.06.14-08.25.29:270][631]LogStaticMesh: Nanite build [0.15s]
+
+[2023.06.14-08.25.29:275][631]LogStaticMesh: Built static mesh [0.18s] /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2.PalmTree2
+[2023.06.14-08.25.29:286][631]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.14-08.25.30:270][631]LogStaticMesh: Display: Building static mesh PalmTree2...
+[2023.06.14-08.25.30:289][631]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2) ...
+[2023.06.14-08.25.30:463][631]LogStaticMesh: Adjacency [0.00s], tris: 3302, UVs 2
+[2023.06.14-08.25.30:463][631]LogStaticMesh: Clustering [0.01s]. Ratio: 1.000000
+[2023.06.14-08.25.30:463][631]LogStaticMesh: Leaves [0.00s]
+[2023.06.14-08.25.30:463][631]LogStaticMesh: Num clusters 26. Error 0.0000, 0.0000, 0.0000
+[2023.06.14-08.25.30:463][631]LogStaticMesh: Num clusters 13. Error 16.7275, 16.7275, 16.7275
+[2023.06.14-08.25.30:463][631]LogStaticMesh: Num clusters 7. Error 31.5298, 31.5298, 31.5298
+[2023.06.14-08.25.30:463][631]LogStaticMesh: Num clusters 4. Error 53.3625, 53.3625, 53.3625
+[2023.06.14-08.25.30:463][631]LogStaticMesh: Num clusters 2. Error 78.6320, 78.6320, 78.6320
+[2023.06.14-08.25.30:463][631]LogStaticMesh: Num clusters 1. Error 123.6203, 123.6203, 123.6203
+[2023.06.14-08.25.30:463][631]LogStaticMesh: Reduce [0.10s]
+[2023.06.14-08.25.30:463][631]LogStaticMesh: Fallback 0/1 [0.05s], num tris: 1971
+[2023.06.14-08.25.30:463][631]LogStaticMesh: ConstrainClusters:
+[2023.06.14-08.25.30:463][631]LogStaticMesh:   Input: 53 Clusters, 6703 Triangles and 5775 Vertices
+[2023.06.14-08.25.30:463][631]LogStaticMesh:   Output without splits: 53 Clusters, 6703 Triangles and 5778 Vertices
+[2023.06.14-08.25.30:463][631]LogStaticMesh:   Output with splits: 53 Clusters, 6703 Triangles and 5778 Vertices
+[2023.06.14-08.25.30:463][631]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 53, Slow Path Clusters: 0, 1 Material: 53, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2023.06.14-08.25.30:463][631]LogStaticMesh: WritePages:
+[2023.06.14-08.25.30:463][631]LogStaticMesh:   Root: GPU size: 30976 bytes. 1 Pages. 30976.000 bytes per page (94.531% utilization).
+[2023.06.14-08.25.30:463][631]LogStaticMesh:   Streaming: GPU size: 71656 bytes. 1 Pages. 71656.000 bytes per page (54.669% utilization).
+[2023.06.14-08.25.30:463][631]LogStaticMesh:   Page data disk size: 78680 bytes. Fixup data size: 168 bytes.
+[2023.06.14-08.25.30:463][631]LogStaticMesh:   Total GPU size: 102632 bytes, Total disk size: 78848 bytes.
+[2023.06.14-08.25.30:463][631]LogStaticMesh: Encode [0.00s]
+[2023.06.14-08.25.30:463][631]LogStaticMesh: Imposter [0.00s]
+[2023.06.14-08.25.30:463][631]LogStaticMesh: Nanite build [0.15s]
+
+[2023.06.14-08.25.30:463][631]LogStaticMesh: Built static mesh [0.19s] /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2.PalmTree2
+[2023.06.14-08.25.31:511][684]LogMeshUtilities: Finished distance field build in 1.0s - 126x126x126 sparse distance field, 1.5Mb total, 0.1Mb always loaded, 40% occupied, 1100 triangles, PalmTree2
+[2023.06.14-08.25.32:840][797]LogSlate: Window 'Message Log' being destroyed
+[2023.06.14-08.25.32:845][797]LogSlate: Window 'Message Log' being destroyed
+[2023.06.14-08.25.34:459][948]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2.PalmTree2
+[2023.06.14-08.25.34:459][948]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2.PalmTree2
+[2023.06.14-08.25.34:460][948]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2.PalmTree2 as actor: StaticMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.StaticMeshActor_3
+[2023.06.14-08.25.35:581][ 64]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2.PalmTree2
+[2023.06.14-08.25.35:581][ 64]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2.PalmTree2
+[2023.06.14-08.25.35:581][ 64]LogActorFactory: Actor Factory spawned StaticMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2.PalmTree2 as actor: StaticMeshActor /Game/Maps/Persistent_Level.Persistent_Level:PersistentLevel.StaticMeshActor_4
+[2023.06.14-08.25.41:774][663]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2023.06.14-08.25.41:780][663]LogContentBrowser: Creating deferred item: NewMaterial
+[2023.06.14-08.25.41:787][664]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2023.06.14-08.25.44:917][  0]LogContentBrowser: Attempting asset rename: NewMaterial -> Palmera
+[2023.06.14-08.25.44:923][  0]LogContentBrowser: End creating deferred item NewMaterial
+[2023.06.14-08.25.46:659][173]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Modelos/Decoracion/Trees/PalmTree/Texturas/Palmera.Palmera
+[2023.06.14-08.25.46:662][173]LogMaterial: Display: Missing cached shadermap for Preview:Palmera in PCD3D_SM5, Default, SM5 (DDC key hash: 966BEBED2BDA1DB706ECAC131A69A36825E168CE), compiling. 
+[2023.06.14-08.25.46:681][173]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.14-08.25.46:874][173]LogMaterial: Display: Missing cached shadermap for Preview:Palmera in PCD3D_SM5, Default, SM5 (DDC key hash: DAE13C688C0C73D71F6B953853519C9CABE52E9E), compiling. 
+[2023.06.14-08.25.46:878][173]LogMaterial: Display: Missing cached shadermap for Preview:Palmera in PCD3D_SM5, Default, SM5 (DDC key hash: 07B99A60C65CB5466FD35360B6F32BEA59918D69), compiling. 
+[2023.06.14-08.25.46:899][173]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.14-08.25.46:899][173]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.14-08.25.46:899][173]MaterialEditorStats: Shader Count: 0
+[2023.06.14-08.25.46:904][173]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.06.14-08.25.46:907][173]LogViewport: Scene viewport resized to 376x449, mode Windowed.
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display: ================================================
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display: Total job queries 164, among them cache hits 3 (1.83%)
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display: Tracking 143 distinct input hashes that result in 119 distinct outputs (83.22%)
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display: RAM used: 0.46 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display: Shaders Compiled: 157
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display: Jobs assigned 146, completed 143 (97.95%)
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display: Average time worker was idle: 94.17 s
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display: Time job spent in pending queue: average 5.81 s, longest 19.59 s
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display: Job execution time: average 8.41 s, max 14.44 s
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display: Job life time (pending + execution): average 14.34 s, max 21.01
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 21.56 s
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display: Jobs were issued in 34 batches (only local compilation was used), average 4.29 jobs/batch
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display: Average processing rate: 6.63 jobs/sec
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display: Effective parallelization: 6.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled    4 times, average 2.26 sec, max 2.48 sec, min 2.02 sec)
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    4 times, average 2.24 sec, max 2.44 sec, min 1.73 sec)
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display: TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader (compiled    4 times, average 2.02 sec, max 2.44 sec, min 1.33 sec)
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display:             TBasePassVSFSelfShadowedVolumetricLightmapPolicy (compiled    2 times, average 1.45 sec, max 1.48 sec, min 1.42 sec)
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 1.41 sec, max 1.43 sec, min 1.39 sec)
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 6.15% of total time (compiled    4 times, average 2.26 sec, max 2.48 sec, min 2.02 sec)
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 6.10% of total time (compiled    4 times, average 2.24 sec, max 2.44 sec, min 1.73 sec)
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display: TMaterialCHSFPrecomputedVolumetricLightmapLightingPolicyFAnyHitShader - 5.48% of total time (compiled    4 times, average 2.02 sec, max 2.44 sec, min 1.33 sec)
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display:                                             FDebugViewModePS - 3.68% of total time (compiled    4 times, average 1.35 sec, max 1.61 sec, min 1.01 sec)
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display:      TBasePassVSFPrecomputedVolumetricLightmapLightingPolicy - 3.47% of total time (compiled    4 times, average 1.28 sec, max 1.43 sec, min 1.13 sec)
+[2023.06.14-08.25.47:376][191]LogShaderCompilers: Display: ================================================
+[2023.06.14-08.25.47:793][212]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.14-08.25.47:793][212]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2023.06.14-08.25.47:793][212]MaterialEditorStats: Shader Count: 4
+[2023.06.14-08.25.50:799][430]LogMaterial: Display: Missing cached shadermap for Preview:Palmera in PCD3D_SM5, Default, SM5 (DDC key hash: B1005E081513E91413F05E084E5A87FB7B9E7D3C), compiling. 
+[2023.06.14-08.25.50:801][430]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 51BB3C6DB35113B6B869D85870F73BA104CB4810), compiling. 
+[2023.06.14-08.25.50:802][430]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BE4BF7C641662C6787984E726E5F0FAAC6335E9B), compiling. 
+[2023.06.14-08.25.50:810][430]LogMaterial: Display: Missing cached shadermap for Preview:Palmera in PCD3D_SM5, Default, SM5 (DDC key hash: C515374D8D91477B4953CB2E3FC3CE518257BC25), compiling. 
+[2023.06.14-08.25.50:812][430]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: BB3AC93CF8E378765CB2AA11AAA45893E8AB0DAE), compiling. 
+[2023.06.14-08.25.50:813][430]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 097514146B23A5BA5126B99D847EF5F32965F5B4), compiling. 
+[2023.06.14-08.25.50:814][430]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: F91541603F283B4B0E7B711677D543D0A7E464D8), compiling. 
+[2023.06.14-08.25.50:821][430]LogMaterial: Display: Missing cached shadermap for Preview:Palmera in PCD3D_SM5, Default, SM5 (DDC key hash: 3DFB0C9E78D2E79F3624E749368FC7CAAC329BB9), compiling. 
+[2023.06.14-08.25.50:823][430]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 498706F7C34BE9CBA4C4155AC74D8B3D1CCA0344), compiling. 
+[2023.06.14-08.25.50:824][430]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9E95901ECA7AC651D18A81D7794B67F0734B8029), compiling. 
+[2023.06.14-08.25.50:825][430]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 20FC225C065B1061D7B0323A91236FECB00B6B71), compiling. 
+[2023.06.14-08.25.50:827][430]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: FB6A6C53D40823474367FE5498A4112C834E38B0), compiling. 
+[2023.06.14-08.26.02:616][376]LogMaterial: Display: Missing cached shadermap for Preview:Palmera in PCD3D_SM5, Default, SM5 (DDC key hash: EBFEAD9A1DD143114EDA24BEDC45ECFC8F93C391), compiling. 
+[2023.06.14-08.26.02:618][376]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9A942CAD16882262915F2D3929A74A86459807E3), compiling. 
+[2023.06.14-08.26.02:621][376]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.14-08.26.02:621][376]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.06.14-08.26.02:621][376]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.14-08.26.02:621][376]MaterialEditorStats: Shader Count: 0
+[2023.06.14-08.26.03:083][396]MaterialEditorStats: Texture samplers: 1/16
+[2023.06.14-08.26.03:083][396]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.06.14-08.26.03:083][396]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.14-08.26.03:083][396]MaterialEditorStats: Shader Count: 1
+[2023.06.14-08.26.03:489][416]MaterialEditorStats: Texture samplers: 3/16
+[2023.06.14-08.26.03:489][416]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2023.06.14-08.26.03:489][416]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.14-08.26.03:489][416]MaterialEditorStats: Shader Count: 3
+[2023.06.14-08.26.16:400][632]LogMaterial: Display: Missing cached shadermap for Preview:Palmera in PCD3D_SM5, Default, SM5 (DDC key hash: 9EAA786FC4123F42032FE07D0AF130543715FAEC), compiling. 
+[2023.06.14-08.26.16:402][632]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 852DC258D3710D476EDECB262E70AA42E93D143E), compiling. 
+[2023.06.14-08.26.16:405][632]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.14-08.26.16:405][632]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.06.14-08.26.16:405][632]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.14-08.26.16:405][632]MaterialEditorStats: Shader Count: 0
+[2023.06.14-08.26.16:855][652]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.14-08.26.16:855][652]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.06.14-08.26.16:855][652]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.14-08.26.16:855][652]MaterialEditorStats: Shader Count: 1
+[2023.06.14-08.26.17:243][672]MaterialEditorStats: Texture samplers: 4/16
+[2023.06.14-08.26.17:243][672]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2023.06.14-08.26.17:243][672]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.14-08.26.17:243][672]MaterialEditorStats: Shader Count: 4
+[2023.06.14-08.26.48:647][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.06.14-08.26.48:648][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Persistent_Level" FILE="D:/UNREAL/Long_Way_Home/Saved/Autosaves/Game/Maps/Persistent_Level_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.06.14-08.26.48:654][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Persistent_Level_Auto1
+[2023.06.14-08.26.48:654][754]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/Persistent_Level_Auto1FEA08B9F48D71BC3A29457B5CB1E6154.tmp' to 'D:/UNREAL/Long_Way_Home/Saved/Autosaves/Game/Maps/Persistent_Level_Auto1.umap'
+[2023.06.14-08.26.48:660][754]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Persistent_Level' took 0.021
+[2023.06.14-08.26.48:660][754]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.021
+[2023.06.14-08.26.48:660][754]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modelos/Decoracion/Trees/PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_BaseColor] ([1] browsable assets)...
+[2023.06.14-08.26.48:662][754]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Modelos/Decoracion/Trees/PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_BaseColor.PalmTree_TT_checker_4096x4096_UV_GRID_BaseColor]
+[2023.06.14-08.26.48:662][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modelos/Decoracion/Trees/PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_BaseColor]
+[2023.06.14-08.26.49:491][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Modelos/Decoracion/Trees/PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_BaseColor_Auto1
+[2023.06.14-08.26.49:491][754]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/PalmTree_TT_checker_4096x4096_UVDF3DAF8E4BD760F75EC4D38BBBC4BC38.tmp' to 'D:/UNREAL/Long_Way_Home/Saved/Autosaves/Game/Modelos/Decoracion/Trees/PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_BaseColor_Auto1.uasset'
+[2023.06.14-08.26.49:492][754]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modelos/Decoracion/Trees/PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_Normal] ([1] browsable assets)...
+[2023.06.14-08.26.49:493][754]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Modelos/Decoracion/Trees/PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_Normal.PalmTree_TT_checker_4096x4096_UV_GRID_Normal]
+[2023.06.14-08.26.49:493][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modelos/Decoracion/Trees/PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_Normal]
+[2023.06.14-08.26.50:383][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Modelos/Decoracion/Trees/PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_Normal_Auto1
+[2023.06.14-08.26.50:383][754]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/PalmTree_TT_checker_4096x4096_UVD03BDCB94EEF8FD28844BBB8841F1EA5.tmp' to 'D:/UNREAL/Long_Way_Home/Saved/Autosaves/Game/Modelos/Decoracion/Trees/PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_Normal_Auto1.uasset'
+[2023.06.14-08.26.50:384][754]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modelos/Decoracion/Trees/PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2023.06.14-08.26.50:385][754]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Modelos/Decoracion/Trees/PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_OcclusionRoughnessMetallic.PalmTree_TT_checker_4096x4096_UV_GRID_OcclusionRoughnessMetallic]
+[2023.06.14-08.26.50:385][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modelos/Decoracion/Trees/PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_OcclusionRoughnessMetallic]
+[2023.06.14-08.26.51:203][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Modelos/Decoracion/Trees/PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_OcclusionRoughnessMetallic_Auto1
+[2023.06.14-08.26.51:203][754]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/PalmTree_TT_checker_4096x4096_UV0E8718E0406CA1E335ACDC88FEF88760.tmp' to 'D:/UNREAL/Long_Way_Home/Saved/Autosaves/Game/Modelos/Decoracion/Trees/PalmTree/Texturas/PalmTree_TT_checker_4096x4096_UV_GRID_OcclusionRoughnessMetallic_Auto1.uasset'
+[2023.06.14-08.26.51:231][754]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1] ([1] browsable assets)...
+[2023.06.14-08.26.51:246][754]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1.PalmTree1]
+[2023.06.14-08.26.51:246][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1]
+[2023.06.14-08.26.51:251][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_Auto1
+[2023.06.14-08.26.51:251][754]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/PalmTree1_Auto1756A6AA14FD26ECFD34AAB979300F7E2.tmp' to 'D:/UNREAL/Long_Way_Home/Saved/Autosaves/Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion1/PalmTree1_Auto1.uasset'
+[2023.06.14-08.26.51:251][754]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2] ([1] browsable assets)...
+[2023.06.14-08.26.51:263][754]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2.PalmTree2]
+[2023.06.14-08.26.51:263][754]OBJ SavePackage: Finished generating thumbnails for package [/Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2]
+[2023.06.14-08.26.51:269][754]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2_Auto1
+[2023.06.14-08.26.51:269][754]LogSavePackage: Moving 'D:/UNREAL/Long_Way_Home/Saved/PalmTree2_Auto1249411D34FB8DAB227ECC5BD91745856.tmp' to 'D:/UNREAL/Long_Way_Home/Saved/Autosaves/Game/Modelos/Decoracion/Trees/PalmTree/Variaciones/Variacion2/PalmTree2_Auto1.uasset'
+[2023.06.14-08.26.51:269][754]LogFileHelpers: Auto-saving content packages took 2.609
+[2023.06.14-08.27.52:569][322]LogMaterial: Display: Missing cached shadermap for Preview:Palmera in PCD3D_SM5, Default, SM5 (DDC key hash: 3029FB549899D3738E6A379417AE4CE1C6D53433), compiling. 
+[2023.06.14-08.27.52:570][322]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 47ACF24E207A81B36F04493F9DD91B0EE73CCBF7), compiling. 
+[2023.06.14-08.27.52:574][322]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.14-08.27.52:574][322]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.06.14-08.27.52:574][322]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.14-08.27.52:574][322]MaterialEditorStats: Shader Count: 0
+[2023.06.14-08.27.54:702][487]LogMaterial: Display: Missing cached shadermap for Preview:Palmera in PCD3D_SM5, Default, SM5 (DDC key hash: 19C9EEBEE7D57EDE0DD689566725791AF112AF5C), compiling. 
+[2023.06.14-08.27.54:704][487]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: AC76A3E6CA7D4EB30D36273B34985E9FE57F02CE), compiling. 
+[2023.06.14-08.27.55:144][503]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.14-08.27.55:144][503]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.06.14-08.27.55:144][503]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.14-08.27.55:144][503]MaterialEditorStats: Shader Count: 1
+[2023.06.14-08.27.55:562][523]MaterialEditorStats: Texture samplers: 5/16
+[2023.06.14-08.27.55:562][523]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.06.14-08.27.55:562][523]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.14-08.27.55:562][523]MaterialEditorStats: Shader Count: 4
+[2023.06.14-08.27.58:161][756]LogMaterial: Display: Missing cached shadermap for Preview:Palmera in PCD3D_SM5, Default, SM5 (DDC key hash: E0399A0338E26E1D878B6BD0958B229D73A404C8), compiling. 
+[2023.06.14-08.27.58:163][756]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E7EC460B7847AB128E86934281A1681EAC2A0353), compiling. 
+[2023.06.14-08.27.58:167][756]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.14-08.27.58:167][756]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.06.14-08.27.58:167][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.14-08.27.58:167][756]MaterialEditorStats: Shader Count: 0
+[2023.06.14-08.27.58:635][774]MaterialEditorStats: Texture samplers: 3/16
+[2023.06.14-08.27.58:635][774]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.06.14-08.27.58:635][774]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.14-08.27.58:635][774]MaterialEditorStats: Shader Count: 1
+[2023.06.14-08.27.59:063][795]MaterialEditorStats: Texture samplers: 5/16
+[2023.06.14-08.27.59:063][795]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2023.06.14-08.27.59:063][795]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2023.06.14-08.27.59:063][795]MaterialEditorStats: Shader Count: 3
+[2023.06.14-08.28.00:376][881]LogMaterialEditor: Saving and Compiling material Palmera
+[2023.06.14-08.28.00:745][881]LogMaterial: Display: Missing cached shadermap for Preview:Palmera in PCD3D_SM5, Default, SM5 (DDC key hash: D6E1C6A4DB9FB3C784855212CB5CAF1CDA624488), compiling. 
+[2023.06.14-08.28.00:758][881]LogMaterial: Display: Missing cached shadermap for Palmera in PCD3D_SM5, Default, SM5 (DDC key hash: 7263FD16FEA6993866ECE93F75C409574CA9B527), compiling. 
+[2023.06.14-08.28.00:766][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.06.14-08.28.01:465][881]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
